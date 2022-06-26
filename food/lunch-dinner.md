@@ -198,11 +198,13 @@ Budget: Around $60 for a New York strip steak and $18 for a house cocktail, brin
 
 ## The Signature Room at the 95th&#x20;
 
-* $35-70/meal
-*
-  * Depends on your budget & what you get
-* [https://www.signatureroom.com/room/](https://www.signatureroom.com/room/) v
-* Swanky restaurant at the top of one of Chicago’s highest skyscrapers
+The Signature Room and Lounge at the 95th is a swanky restaurant that resides at two of the top floors at the former John Hancock building. This restaurant offers a unique sky-high view of the entire city of Chicago while enjoying high-end food like steaks. More formal attire is recommended. If you want to enjoy the view without the dinner, the lounge offers cocktails and lighter snacks.&#x20;
+
+Location: Streeterville
+
+Budget: Average $60 for an entree and $16 for a cocktail, bringing the per person with tax total to approximately $92.
+
+{% embed url="https://www.signatureroom.com/" %}
 
 ## Odyssey Dinner Cruise
 
