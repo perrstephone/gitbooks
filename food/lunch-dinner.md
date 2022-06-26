@@ -16,6 +16,16 @@ Budget: $7 for a burger and $3 for a Coke, so approximately $10 for a meal per p
 
 {% embed url="https://www.billygoattavern.com/" %}
 
+## International McDonald's at Hamburger University
+
+Chicago is home to McDonald's global headquarters. In addition to their global headquarters, their famous Hamburger University training center is also located in West Loop. Within Hamburger University is the international McDonald's. This McDonald's has all the food you're familiar with as well as menu items from China, France, and more.&#x20;
+
+Location: West Loop
+
+Budget: Likely around $8 for a full meal.&#x20;
+
+{% embed url="https://www.ubereats.com/store/mcdonalds-global-menu-restaurant/l60CCNz0RNi_6IsxFoPzEw/f3f308a2-ac92-5f66-b775-44ae20d9d0bb" %}
+
 ## Portillo’s
 
 Portillo's is a fast food chain resturant that serves traditional Chicago delicacies, such as Italian beef sandwich, Chicago-style hotdog, and a chocolate cake shake.&#x20;
@@ -138,7 +148,7 @@ Budget: Go during happy hour for the best deal! If you go after happy hour, entr
 
 ## Untitled Supper Club
 
-This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of business casual dress. :star:
+This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of cocktail dress. :star:
 
 Location: River North
 
@@ -156,37 +166,35 @@ Budget: Recommended order is a single cheeseburger with egg and bacon ($24) with
 
 {% embed url="http://auchevaldiner.com/chicago/food-drink/" %}
 
-## CH Distillery
+## CH Distillery/Jinsei Motto
 
-* $15-$30/meal
-*
-  * Highly dependent on how much/what you buy
-* [https://chdistillery.com/bar/](https://chdistillery.com/bar/)
-* High end sushi restaurant
-* CH Distillery brews Chicago’s iconic Malort
-*
-  * A bitter liquor that is an experience that you can have
-* Also sometimes offers tours of the distillery itself
+CH Distillery/Jinsei Motto is a combination restaurant/bar that serves high-end sushi and cocktails with CH Distillery spirit bases. CH Distillery is Chicago staple for local spirits. Their most famous spirit is Malort, which is a wormwood-based digestif that you unfortunately should try for yourself. The distillery also offers tours for those that wish to make an activity out of their visit as well.&#x20;
 
-## Morton’s Chicago&#x20;
+Location: West Loop
 
-* $60-70/steak
-* [https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/#menus](https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/#menus)&#x20;
-* Classic high-end steak restaurant&#x20;
-* Great for birthdays, anniversaries, etc.
+Budget: $20 for maki and $17 for a cocktail, so $45 per person for a meal.&#x20;
 
-
-
-
+{% embed url="https://chdistillery.com/bar/" %}
 
 ## Le Colonial&#x20;
 
-* $30/meal
-* [https://www.lecolonialchicago.com/](https://www.lecolonialchicago.com/)&#x20;
-* High-end French-Vietnamese&#x20;
-* Gold Coast neighborhood
+Le Colonial is an upscale French-Vietnamese restaurant in Gold Coast. Residing in the heart of a luxury shopping district, this restaurant provides a high-end atmosphere with some truly delicious food. Business casual/somewhat dressy attire recommended.&#x20;
 
+Location: Gold Coast
 
+Budget: Expect to spend $30 for an entree and $15 for a cocktail, bringing the total to around $68 per person.&#x20;
+
+{% embed url="https://www.lecolonialchicago.com/" %}
+
+## Morton’s
+
+Morton's is an upscale international steakhouse chain that originated in Chicago. Morton's has a very luxurious atmosphere, so formal/cocktail attire is recommended. Morton's is a great place for celebrating anniversaries or birthdays. Tip: If you tell them you are celebrating a birthday, they comp dessert.&#x20;
+
+Location: Loop
+
+Budget: Around $60 for a New York strip steak and $18 for a house cocktail, bringing the total to about $95 per person.
+
+{% embed url="https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/" %}
 
 ## The Signature Room at the 95th&#x20;
 

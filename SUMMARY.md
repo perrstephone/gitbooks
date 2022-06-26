@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏙 Welcome!](README.md)
+* [🏙 Welcome to Chicago!](README.md)
 
 ## 🥪 Food
 
@@ -12,6 +12,7 @@
 
 * [🖼 Museums](activity/museums.md)
 * [⛴ Tours/Shows](activity/tours-shows.md)
+* [🛍 Shopping](activity/shopping.md)
 * [🎡 Attractions](activity/attractions.md)
 
 ## 🌡 Seasonal
