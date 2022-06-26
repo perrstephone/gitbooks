@@ -136,25 +136,25 @@ Budget: Go during happy hour for the best deal! If you go after happy hour, entr
 
 {% embed url="https://www.giltbarchicago.com/" %}
 
-## Au Cheval
-
-* $20/burger
-* Iconic burger place, generally considered one of the best burgers in the US
-* Walk-In ONLY
-*
-  * Generally has a wait, sometimes 2 hours
-  * Advice: go around open, get in line, grab a drink elsewhere while you wait
-* [http://auchevaldiner.com/chicago/](http://auchevaldiner.com/chicago/)
-
 ## Untitled Supper Club
 
-This is a very cool venue. This is a revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of business casual dress. :star:
+This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of business casual dress. :star:
 
 Location: River North
 
 Budget: Burger is $19 and a cocktail is $16, so expect to spend around $42 per person with tip.&#x20;
 
 {% embed url="https://untitledsupperclub.com/" %}
+
+## Au Cheval
+
+Au Cheval is an iconic burger restaurant and is commonly considered one of the best burgers in the US. This restaurant is walk-in ONLY and can have a wait of 2+ hours. I find that if you go early enough (5pm), you can have a much smaller (30min) wait. Au Cheval is in the middle of a food and bar district, so you can grab cocktails at the bars next door while you wait. :star:
+
+Location: West Loop
+
+Budget: Recommended order is a single cheeseburger with egg and bacon ($24) with a cocktail of the diner's choice ($14), meaning about $46 per person.&#x20;
+
+{% embed url="http://auchevaldiner.com/chicago/food-drink/" %}
 
 ## CH Distillery
 
