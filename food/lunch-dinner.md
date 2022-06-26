@@ -198,3 +198,10 @@ Budget: Recommended order is a single cheeseburger with egg and bacon ($24) with
 
 ## Odyssey Dinner Cruise
 
+The Odyssey dinner cruise is one of the more expensive meals in Chicago. The Odyssey offers a gourmet meal while taking patrons on a 2-3 hour luxury cruise on the lake or river. This is an excellent experience that I would strongly recommend for a graduation, anniversary, or birthday. The attire is cocktail/formal. :star:
+
+Location: Navy Pier (lake cruise), Streeterville (river cruise)
+
+Budget: $200 per person for the cruise and dinner.&#x20;
+
+{% embed url="https://navypier.org/listings/listing/odyssey-lake-michigan-dinner-cruise" %}
