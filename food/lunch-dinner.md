@@ -96,6 +96,16 @@ Budget: A standard burger will cost about $17 and a margarita will cost $12, bri
 
 {% embed url="https://www.harrycarays.com/harry-carays-tavern-navy-pier.html" %}
 
+## Niu Japanese Fusion
+
+Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier.
+
+Location: Streeterville
+
+Budget: $8 for classic maki, $18 for specialty rolls, and $12 for a cocktail.&#x20;
+
+{% embed url="https://www.niusushi.com/" %}
+
 ## Machine: Engineered Drinks
 
 Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. :star:
@@ -125,12 +135,6 @@ Location: River North
 Budget: Go during happy hour for the best deal! If you go after happy hour, entrees run $30 each and cocktails are $15 each.&#x20;
 
 {% embed url="https://www.giltbarchicago.com/" %}
-
-## Niu Japanese Fusion
-
-
-
-
 
 ## Au Cheval
 
