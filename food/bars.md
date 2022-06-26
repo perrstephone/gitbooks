@@ -7,22 +7,16 @@ description: >-
 
 # 🥂 Bars
 
-## Streeterville Social
-
-Streeterville social is a seasonal rooftop bar that is open in the summer. This bar overlooks the Chicago river from the Lowes building. They also have a food menu.&#x20;
-
-Location: Streeterville
-
-Budget: $15 per drink, so $18 per person with tax assuming one drink per person.&#x20;
-
-{% embed url="https://www.loewshotels.com/chicago-downtown/streeterville-social" %}
-
 ## Three Dots and a Dash
 
-Three Dots and a Dash is a speakeasy-style bar that serves over-the-top tikis. The entrance is hidden in an alleyway among some small tiki huts. Every single cocktail is delicious here. I would recommend expecting to buy two cocktails a person when visiting. I would strongly recommend getting a reservation in advance because this place quickly fills up and has no availability. Reservations are $10 per person, which will be applied to the bill. Three Dots also has a limited menu. This is a 21+ establishment. :star::fire:
+* approx. $15/drink
+* Super cute tiki bar in the heart of River North
+* [https://www.threedotschicago.com/](https://www.threedotschicago.com/)
+* Get a reservation if possible bc it fills up fast
 
-Location: River North
+## Streeterville Social
 
-Budget: $15 per drink, so at two drinks per person with tip: $36 per person per visit.&#x20;
-
-{% embed url="https://www.threedotschicago.com/" %}
+* approx $15/drink
+* [https://www.loewshotels.com/chicago-downtown/streeterville-social](https://www.loewshotels.com/chicago-downtown/streeterville-social)
+* Rooftop bar
+* In my building

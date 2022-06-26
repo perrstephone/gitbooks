@@ -2,20 +2,8 @@
 
 ## The Bean
 
-You know what The Bean is, it's official name is Cloud Gate. It's located in Millennium Park, which is just north of Grant Park.&#x20;
-
-Location: Loop
-
-Budget: Free
-
-## Grant Park
-
-* Free!
-* Buckingham Fountain
-*
-  * Massive water fountain&#x20;
-  * Good for pictures
-* Big park
+* free
+* Formally, Cloud Gate
 
 ## Chinatown
 
@@ -34,6 +22,15 @@ Budget: Free
 * Big building
 * Cool observatory at the top
 * Generally has a bit of a line (45 min to 2 hours)
+
+## Grant Park
+
+* Free!
+* Buckingham Fountain
+*
+  * Massive water fountain&#x20;
+  * Good for pictures
+* Big park
 
 ## Lakefront/Riverfront
 

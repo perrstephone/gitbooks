@@ -20,8 +20,4 @@ description: >-
 * [ ] Weber Grill
 * [ ] Minghin Cuisine
 * [ ] Hala Kahiki (River Grove)
-* [ ] Lost Lake (Logan Square)
 * [ ] Bourbon on Division (just past machine)
-
-
-
