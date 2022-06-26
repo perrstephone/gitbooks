@@ -66,55 +66,67 @@ Budget: $15 for a standard burger.&#x20;
 
 {% embed url="https://www.monkspubchicago.com/" %}
 
+## Pizzeria Uno
+
+There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we refer to here is the original place that deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. This restaurant is very small and very popular, so I recommend either getting takeout or going early on a weekday to decrease your chances of having to wait for awhile.&#x20;
+
+Location: River North&#x20;
+
+Budget: Expect to spend about $30 per pizza, which may serve 3 or more people. This total may go up if you dine in and get cocktails.&#x20;
+
+{% embed url="https://www.pizzeriaunodue.com/" %}
+
 ## Dick’s Last Resort
 
 Dick's Last Resort is a restaurant chain where they are purposefully very mean to you. The Chicago location overlooks the river from Marina City (corncob) towers.&#x20;
 
-* Themed restaurant where they're mean to you
-* $15/meal
+Location: River North
 
-## Harry Carey’s
+Budget: Cheeseburger entree is $16, add $13 for a cocktail, so expect a with 20% tip total of about $35 for person.
 
-* BEST FRIES IN THE ENTIRE DAMN CITY
-* In Navy Pier
-* Not too expensive, depends on what you get
-*
-  * I generally only get fries and a drink ($7), but sometimes I’ll get a burger too ($15)
+{% embed url="https://dickslastresort.com/locations/chicago/" %}
 
-## Uno’s Pizza
+## Harry Carey’s at Navy Pier
 
-* Deep dish pizza
-* Original place deep dish was invented
-* Lots around the city
-* $20-30/pizza, which serves 2-4 people
+Harry Carey's at Navy Pier is an excellent sports-centric tavern on Navy Pier that offers delicious burgers and cocktails with a view of the lake. The restaurant's namesake Harry Carey was a very famous sportscaster, and his resturants are lined with famous sports memorabilia and pictures of celebrities visiting the bar. They have a patio that is also dog friendly.&#x20;
 
-[https://www.unos.com/order-pizza-online.php](https://www.unos.com/order-pizza-online.php)
+Location: Navy Pier
 
-## Machine Drinks
+Budget: A standard burger will cost about $17 and a margarita will cost $12, bringing a per person total with tip up to about $35.&#x20;
 
-* approx $15/drink
-* [https://www.dinemachine.com/](https://www.dinemachine.com/)
-* Bar/Florist
-* Drinks you are supposed to break with a hammer
-* Wicker Park
+{% embed url="https://www.harrycarays.com/harry-carays-tavern-navy-pier.html" %}
+
+## Machine: Engineered Drinks
+
+Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. :star:
+
+Location: Wicker Park
+
+Budget: A burger entree with fries is $17 and a breakable cocktail is $16, so a per person total with tip will be about $40.&#x20;
+
+{% embed url="https://www.dinemachine.com/" %}
 
 ## The Italian Village
 
-* Beautiful Italian restaurant on Monroe
-* \~$20 a person
-* Walking distance but a bit of a trek
+The Italian Village is an Italian restaurant in downtown Chicago that serves upscale food and wine. The best part about The Italian Village is the atmosphere: the restaurant is decorated to look like a small Italian village in the evening. This part of the restaurant is up on the upper level. Please note that this is not a particularly accessible location as it requires people to go up a steep set of stairs for about two levels, so keep this in mind if you are going with people who have joint issues, bad knees, or other accessibility concerns. I would also recommend dressing business casual for this restaurant.
+
+Location: Loop
+
+Budget: Expect to spend $20-$30 on a main dish and $13 for a glass of wine, bringing to per person total to $40-$52.&#x20;
+
+{% embed url="https://italianvillage-chicago.com/the-village/" %}
 
 ## Gilt Bar
 
-* EXCELLENT HAPPY HOUR&#x20;
-*
-  * $5 mussels, highballs, old fashioneds
-* Opens at 4:00, happy hour til 5:30
-* Library speakeasy downstairs
+Gilt is an upscale speakeasy-style bar that serves high-end cocktails and food. Gilt is generally only open for dinner. A highlight about Gilt is their happy hour: 4:00pm to 5:30pm Gilt serves $5 highballs, old-fashioneds, mussels, and more. Additionally, there is a second true speakeasy in the basement called The Library. I would recommend business casual/cocktail attire for both restaurants.&#x20;
+
+Location: River North
+
+Budget: Go during happy hour for the best deal! If you go after happy hour, entrees run $30 each and cocktails are $15 each.&#x20;
 
 {% embed url="https://www.giltbarchicago.com/" %}
 
-## Niu
+## Niu Japanese Fusion
 
 
 

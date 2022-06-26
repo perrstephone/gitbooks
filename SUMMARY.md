@@ -11,8 +11,8 @@
 ## 🛵 Activity
 
 * [🖼 Museums](activity/museums.md)
-* [🎡 Attractions](activity/attractions.md)
 * [⛴ Tours/Shows](activity/tours-shows.md)
+* [🎡 Attractions](activity/attractions.md)
 
 ## 🌡 Seasonal
 
