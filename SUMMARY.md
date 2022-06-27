@@ -22,5 +22,5 @@
 
 ***
 
-* [📋 Todo: Places I Still Need to Check Out](todo-places-i-still-need-to-check-out.md)
+* [📋 Todo: Places We Still Need to Check Out](todo-places-we-still-need-to-check-out.md)
 * [📚 Additional Resources](additional-resources.md)

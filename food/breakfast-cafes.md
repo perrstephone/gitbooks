@@ -6,7 +6,7 @@ description: Breakfast, coffee, and cafes.
 
 ## Do-Rite Donuts
 
-Do-Rite is a local Chicago donut chain. They serve excellent donuts and breakfast sandwiches as well as local coffee from Dark Matter Coffee. Excellent for on-the-go breakfast. I recommend ordering online to save time. It can have a bit of a line at peak times. :star:
+Do-Rite is a local Chicago donut chain. They serve excellent donuts and breakfast sandwiches as well as local coffee from Dark Matter Coffee. Excellent for on-the-go breakfast. I recommend ordering online to save time. It can have a bit of a line at peak times. :star::fire:
 
 Location(s): Loop, Streeterville, West Loop, Wrigleyville
 
@@ -26,7 +26,7 @@ Budget: Approximately $5 for a breakfast sandwich, $3 for a donut, and $3 for a 
 
 ## Egg Harbor Cafe
 
-Egg Harbor is a sit-down breakfast chain. This is one of the more reasonably priced resturants that exists downtown, especially considering that the food is good and the resturant has a nice atomosphere.&#x20;
+Egg Harbor is a sit-down breakfast chain. This is one of the more reasonably priced resturants that exists downtown, especially considering that the food is good and the resturant has a nice atomosphere. :fire:
 
 Location(s): Streeterville, more in the suburbs
 
@@ -46,7 +46,7 @@ Budget: I can't find an online menu to refer to, but I do think it could be arou
 
 ## Starbucks Reserve Chicago
 
-The Starbucks Roastery is one of the largest Starbucks in the world. This multi-level Michigan Ave Reserve location serves everything from regular coffee to espresso martinis to baked goods. It frequently has a line out the door to go in.&#x20;
+The Starbucks Roastery is one of the largest Starbucks in the world. This multi-level Michigan Ave Reserve location serves everything from regular coffee to espresso martinis to baked goods. It frequently has a line out the door to go in. :fire:
 
 Location: Streeterville
 

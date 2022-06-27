@@ -1,5 +1,5 @@
 ---
-description: Att
+description: This page outlines parks, rides, observation decks, and more.
 ---
 
 # 🎡 Attractions
