@@ -11,7 +11,6 @@ description: >-
 * [ ] Bassment
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
-* [ ] Ron of Japan
 * [ ] McCormick and Schmicks
 * [ ] London House
 * [ ] Berlin
@@ -28,3 +27,4 @@ description: >-
 * [ ] Aviary
 * [ ] Bar Mar
 * [ ] Matchbox Bar
+* [ ] The Press Room

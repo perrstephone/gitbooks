@@ -24,6 +24,16 @@ Budget: Approximately $5 for a breakfast sandwich, $3 for a donut, and $3 for a 
 
 {% embed url="https://www.stansdonuts.com/" %}
 
+## Cafe L'Appetito
+
+A small Italian cafe/store/bakery that serves a variety of pastries and fresh made sandwiches. In addition to traditional Italian cafe fare, this store offers a selection of Italian grocery store items, so it's a great place to pick up little candies, beverages, and cookies. There is a small private outdoor seating area next to the exit of the cafe.&#x20;
+
+Location: River North
+
+Budget: $6.50 for a breakfast croissant and about $4 for a coffee, plus $1 tip, brings a per person total to $11.50.
+
+{% embed url="https://lappetito.com/" %}
+
 ## Egg Harbor Cafe
 
 Egg Harbor is a sit-down breakfast chain. This is one of the more reasonably priced resturants that exists downtown, especially considering that the food is good and the resturant has a nice atomosphere. :fire:

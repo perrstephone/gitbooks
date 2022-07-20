@@ -126,7 +126,7 @@ Budget: $8 for classic maki, $18 for specialty rolls, and $12 for a cocktail.&#x
 
 ## Machine: Engineered Drinks
 
-Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. This is a must if you like cocktails.:star::fire:
+Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. Machine happy hour is Wednesday, Thursday, and Friday from 4-6pm, which features half-off communal cocktails and $13 mussels. This is a must if you like cocktails.:star::fire:
 
 Location: Wicker Park
 
@@ -156,7 +156,7 @@ Budget: Go during happy hour for the best deal! If you go after happy hour, entr
 
 ## Untitled Supper Club
 
-This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of cocktail dress. :star:
+This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Happy hour is on Tuesdays at 5-7pm, with $10 Manhattans, Old Fashioneds, and Martinis. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of cocktail dress. :star:
 
 Location: River North
 
