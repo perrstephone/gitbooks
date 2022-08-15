@@ -1,5 +1,7 @@
 ---
 description: Breakfast, coffee, and cafes.
+cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.39.54 PM.png
+coverY: 0
 ---
 
 # 🥞 Breakfast/Cafes
