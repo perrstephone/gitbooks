@@ -16,6 +16,8 @@ Budget: Admission is free, but it is a market. I'd recommend $20 in spending cas
 
 {% embed url="https://www.christkindlmarket.com/" %}
 
+![Booth from 2021](<../.gitbook/assets/Screen Shot 2022-08-14 at 9.04.45 PM.png>)
+
 ## Ice Skating at the Ribbon
 
 Maggie Daley Park is a public park in the city. Durring winter, they open the Ribbon portion as an outdoor ice skating path.&#x20;
