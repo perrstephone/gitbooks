@@ -1,5 +1,7 @@
 ---
 description: This page outlines parks, rides, observation decks, and more.
+cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.45.38 PM.png
+coverY: 0
 ---
 
 # 🎡 Attractions

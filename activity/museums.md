@@ -3,6 +3,8 @@ description: >-
   Chicago is home to some of the best museums in the country. All pricing is for
   basic adult tickets. Check pricing information for each of these as
   student/resident may be cheaper.
+cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.51.28 PM.png
+coverY: 0
 ---
 
 # 🖼 Museums

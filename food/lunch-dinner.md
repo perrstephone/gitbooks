@@ -2,6 +2,8 @@
 description: >-
   These are places that I would go to for either lunch or dinner. I note
   formality and whether they are open only for lunch or dinner on them.
+cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.39.54 PM.png
+coverY: 0
 ---
 
 # 🍔 Lunch/Dinner

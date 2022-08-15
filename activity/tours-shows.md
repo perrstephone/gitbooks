@@ -2,6 +2,8 @@
 description: >-
   This is a list of the various tours and shows that run consistently in
   Chicago.
+cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.48.45 PM.png
+coverY: 0
 ---
 
 # ⛴ Tours/Shows
