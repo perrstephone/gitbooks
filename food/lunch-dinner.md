@@ -88,16 +88,6 @@ Budget: Expect to spend about $30 per pizza, which may serve 3 or more people. T
 
 {% embed url="https://www.pizzeriaunodue.com/" %}
 
-## Dick’s Last Resort
-
-Dick's Last Resort is a restaurant chain where they are purposefully very mean to you. The Chicago location overlooks the river from Marina City (corncob) towers.&#x20;
-
-Location: River North
-
-Budget: Cheeseburger entree is $16, add $13 for a cocktail, so expect a with 20% tip total of about $35 for person.
-
-{% embed url="https://dickslastresort.com/locations/chicago/" %}
-
 ## Harry Carey’s at Navy Pier
 
 Harry Carey's at Navy Pier is an excellent sports-centric tavern on Navy Pier that offers delicious burgers and cocktails with a view of the lake. The restaurant's namesake Harry Carey was a very famous sportscaster, and his resturants are lined with famous sports memorabilia and pictures of celebrities visiting the bar. They have a patio that is also dog friendly.&#x20;
@@ -145,6 +135,16 @@ Location: Loop
 Budget: Expect to spend $20-$30 on a main dish and $13 for a glass of wine, bringing to per person total to $40-$52.&#x20;
 
 {% embed url="https://italianvillage-chicago.com/the-village/" %}
+
+## Sayat Nova
+
+Sayat Nova is a restaurant that serves authentic Armenian food. Sayat Nova errs on the pricey side, but the food is well worth it. The restaurant was designed with inspiration from Turkish and Armenian design patterns, producing a gorgeous interior. :star::fire:
+
+Location: Streeterville
+
+Budget: $25 for a kebab entree with a side & $13 house cocktail will run $45 (with tip) per person.
+
+{% embed url="https://sayatnovachicago.com/menu" %}
 
 ## Gilt Bar
 
