@@ -126,6 +126,8 @@ Budget: A burger entree with fries is $17 and a breakable cocktail is $16, so a 
 
 {% embed url="https://www.dinemachine.com/" %}
 
+##
+
 ## The Italian Village
 
 The Italian Village is an Italian restaurant in downtown Chicago that serves upscale food and wine. The best part about The Italian Village is the atmosphere: the restaurant is decorated to look like a small Italian village in the evening. This part of the restaurant is up on the upper level. Please note that this is not a particularly accessible location as it requires people to go up a steep set of stairs for about two levels, so keep this in mind if you are going with people who have joint issues, bad knees, or other accessibility concerns. I would also recommend dressing business casual for this restaurant.

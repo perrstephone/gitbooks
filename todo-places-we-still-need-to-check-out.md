@@ -9,9 +9,10 @@ description: >-
 
 * [ ] Disco&#x20;
 * [ ] Bassment
+* [ ] King of Cups
+* [ ] The Drifter
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
-* [ ] McCormick and Schmicks
 * [ ] London House
 * [ ] Berlin
 * [ ] Aire Ancient Baths
