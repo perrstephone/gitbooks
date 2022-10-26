@@ -1,8 +1,7 @@
 ---
 description: >-
-  These are restaurants that may or may not serve food. I categorize bars as
-  places I go *primarily* to get a drink. I make note of the ones that serve
-  food and whether they have a limited menu.
+  I categorize bars as places I go *primarily* to get a drink. I make note of
+  the ones that serve food and whether they have a limited menu.
 cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.39.54 PM.png
 coverY: 0
 ---
