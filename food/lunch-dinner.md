@@ -116,7 +116,19 @@ Budget: $8 for classic maki, $18 for specialty rolls, and $12 for a cocktail.&#x
 
 {% embed url="https://www.niusushi.com/" %}
 
-## Machine: Engineered Drinks
+##
+
+## McCormick & Schmick's
+
+This steakhouse and seafood resturant is a part of an upscale chain. It resides right along the river in the loop, making nearby several major attractions. The food is excellent, and the cocktails are delicious and reasonably priced. We strongly recommend the lunch menu as it is signficantly cheaper while maintaining the high-end restuarant vibe.&#x20;
+
+Location: Loop
+
+Budget: For lunch, an entree is $16 and a drink is $13, making a total for one person with tip $35.
+
+{% embed url="https://www.mccormickandschmicks.com/location/mccormick-schmicks-chicago-il/#lunch-dinner-mswa" %}
+achine: Engineered Drinks
+{% endembed %}
 
 Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. Machine happy hour is Wednesday, Thursday, and Friday from 4-6pm, which features half-off communal cocktails and $13 mussels. This is a must if you like cocktails.:star::fire:
 
@@ -126,7 +138,7 @@ Budget: A burger entree with fries is $17 and a breakable cocktail is $16, so a 
 
 {% embed url="https://www.dinemachine.com/" %}
 
-##
+
 
 ## The Italian Village
 
