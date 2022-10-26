@@ -125,8 +125,8 @@ Location: Loop
 Budget: For lunch, an entree is $16 and a drink is $13, making a total for one person with tip $35.
 
 {% embed url="https://www.mccormickandschmicks.com/location/mccormick-schmicks-chicago-il/#lunch-dinner-mswa" %}
-achine: Engineered Drinks
-{% endembed %}
+
+## Machine
 
 Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. Machine happy hour is Wednesday, Thursday, and Friday from 4-6pm, which features half-off communal cocktails and $13 mussels. This is a must if you like cocktails.:star::fire:
 
@@ -197,6 +197,16 @@ Location: West Loop
 Budget: $20 for maki and $17 for a cocktail, so $45 per person for a meal.&#x20;
 
 {% embed url="https://chdistillery.com/bar/" %}
+
+## Weber Grill Chicago
+
+The Chicago Weber Grill restaurant offers upscale charcoal-grilled food on their eponymous Weber Grills. It's typical backyard American food, burgers, barbeque, and steaks with a smokey flavor. :fire:
+
+Location: River North
+
+Budget: $32 for a steak and fries entree with a $13 cocktail will cost about $53 per person with tip.&#x20;
+
+{% embed url="https://webergrillrestaurant.com/chicago/" %}
 
 ## Le Colonial&#x20;
 

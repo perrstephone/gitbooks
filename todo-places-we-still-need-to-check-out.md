@@ -9,14 +9,15 @@ description: >-
 
 * [ ] Disco&#x20;
 * [ ] Bassment
+* [ ] King of Cups
+* [ ] The Drifter
+* [ ] Cafe Deko
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
-* [ ] McCormick and Schmicks
 * [ ] London House
 * [ ] Berlin
 * [ ] Aire Ancient Baths
 * [ ] Tao
-* [ ] Weber Grill
 * [ ] Minghin Cuisine
 * [ ] Hala Kahiki (River Grove)
 * [ ] Bourbon on Division (just past machine)
