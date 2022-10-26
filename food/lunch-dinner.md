@@ -116,8 +116,6 @@ Budget: $8 for classic maki, $18 for specialty rolls, and $12 for a cocktail.&#x
 
 {% embed url="https://www.niusushi.com/" %}
 
-##
-
 ## McCormick & Schmick's
 
 This steakhouse and seafood resturant is a part of an upscale chain. It resides right along the river in the loop, making nearby several major attractions. The food is excellent, and the cocktails are delicious and reasonably priced. We strongly recommend the lunch menu as it is signficantly cheaper while maintaining the high-end restuarant vibe.&#x20;
