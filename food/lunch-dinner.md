@@ -106,6 +106,8 @@ Location: Fulton Market, Avondale, Schaumbourg
 
 Budget: Most burgers are $18, $22 with tip.&#x20;
 
+{% embed url="https://kumascorner.com/location/kumas-corner/" %}
+
 ## Niu Japanese Fusion
 
 Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier. :fire:
@@ -125,6 +127,26 @@ Location: Loop
 Budget: For lunch, an entree is $16 and a drink is $13, making a total for one person with tip $35.
 
 {% embed url="https://www.mccormickandschmicks.com/location/mccormick-schmicks-chicago-il/#lunch-dinner-mswa" %}
+
+## Athena Restaurant
+
+Athena Restaurant is a stunning Greek restaurant in Greektown. This restaurant boasts a stunning interior reminiscent of ancient Greek buildings. In the summer, the ceiling is removed, functionally turning the entire restaurant into an outdoor patio. The saganaki fried cheese entree is a must as they set it on fire and fry it in front of you. :star:
+
+Location: Greektown
+
+Budget: A gyro plate is $17 & another $13 for a cocktail. With tip, we anticipate this will cost $36 per person.&#x20;
+
+{% embed url="https://www.athenachicago.com/" %}
+
+## D4 Irish Pub
+
+D4 Irish Pub offer classic Irish cuisine in an upscale setting. This restaurant also specializes in whiskeys. The atmosphere here is extremely cozy with multiple fireplaces, wood furniture, and a wall of books.&#x20;
+
+Location: Streeterville
+
+Budget: An entree averages around $20, and a cocktail runs around $13. Total with tip per person is approximately $40.&#x20;
+
+{% embed url="https://www.d4pub.com/" %}
 
 ## Machine
 
@@ -247,3 +269,13 @@ Location: Navy Pier (lake cruise), Streeterville (river cruise)
 Budget: $200 per person for the cruise and dinner.&#x20;
 
 {% embed url="https://navypier.org/listings/listing/odyssey-lake-michigan-dinner-cruise" %}
+
+## Alinea
+
+Alinea is the indisputable premiere restaurant in the entire city of Chicago. This establishment is the only Chicago restaurant that has been awarded the coveted three Michelin stars and is commonly considered one of the best restaurants in the world. This is a multi-course meal of creative takes on classic cuisines. This meal is as much food as it is a performance. This is expensive but truly is worth every penny. :star::fire:
+
+Location: Lincoln Park
+
+Budget: Approximately $500 per person, add another $200 each for the wine pairing. The price may vary by floor.&#x20;
+
+{% embed url="https://www.alinearestaurant.com/" %}
