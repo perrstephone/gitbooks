@@ -192,7 +192,7 @@ Budget: Go during happy hour for the best deal! If you go after happy hour, entr
 
 ## Untitled Supper Club
 
-This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz to burlesque. Happy hour is on Tuesdays at 5-7pm, with $10 Manhattans, Old Fashioneds, and Martinis. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of cocktail dress. :star:
+This is a very cool venue and revival speakeasy restaurant. The door is unmarked, so make sure you follow Google Maps to a T. They have lots of shows ranging from magicians to jazz. Happy hour is on Tuesdays at 5-7pm, with $10 Manhattans, Old Fashioneds, and Martinis. Please note this is a 21+ establishment, so plan accordingly. There is also an expectation of cocktail dress. :star:
 
 Location: River North
 
@@ -246,7 +246,7 @@ Morton's is an upscale international steakhouse chain that originated in Chicago
 
 Location: Loop
 
-Budget: Around $60 for a New York strip steak and $18 for a house cocktail, bringing the total to about $95 per person.
+Budget: Around $60 for a New York strip steak and $18 for a house cocktail, bringing the total with tip to about $95 per person.
 
 {% embed url="https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/" %}
 
@@ -272,7 +272,7 @@ Budget: $200 per person for the cruise and dinner.&#x20;
 
 ## Alinea
 
-Alinea is the indisputable premiere restaurant in the entire city of Chicago. This establishment is the only Chicago restaurant that has been awarded the coveted three Michelin stars and is commonly considered one of the best restaurants in the world. This is a multi-course meal of creative takes on classic cuisines. This meal is as much food as it is a performance. This is expensive but truly is worth every penny. :star::fire:
+Alinea is the indisputable premiere restaurant in the city of Chicago. This establishment is the only Chicago restaurant that has been awarded the coveted three Michelin star rating and is commonly considered one of the best restaurants in the world. This is a multi-course tasting menu consisting of creative takes on classic cuisines. This meal is as much food as it is a performance. This is expensive but truly is worth every penny. :star::fire:
 
 Location: Lincoln Park
 
