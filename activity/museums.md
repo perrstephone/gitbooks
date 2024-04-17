@@ -7,7 +7,7 @@ cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.51.28 PM.png
 coverY: 0
 ---
 
-# 🖼 Museums
+# 🖼️ Museums
 
 ## Chicago Architecture Center
 

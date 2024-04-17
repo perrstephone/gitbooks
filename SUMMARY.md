@@ -12,10 +12,10 @@
 
 * [💎 Hidden Gems](activities/hidden-gems.md)
 * [🌞 Seasonal](activities/seasonal.md)
-* [🖼️ Museums](activities/museums.md)
-* [⛴️ Tours/Shows](activities/tours-shows.md)
-* [🛍️ Shopping Districts](activities/shopping-districts.md)
-* [🎡 Attractions](activities/attractions.md)
+* [🖼️ Museums](activity/museums.md)
+* [⛴️ Tours/Shows](activity/tours-shows.md)
+* [🛍️ Shopping Districts](activity/shopping.md)
+* [🎡 Attractions](activity/attractions.md)
 
 ***
 

@@ -6,11 +6,11 @@ cover: .gitbook/assets/Screen Shot 2022-08-14 at 8.39.54 PM.png
 coverY: 0
 ---
 
-# 🏙 Welcome to Chicago!
+# 🏙️ Welcome to Chicago!
 
 ## Important Info
 
-We have three major Categories: Activities, Food, and Seasonal.
+We have two major Categories: Activities and Food.&#x20;
 
 Each category has descriptions, locations, and budgetary information on each thing to do in the city.&#x20;
 
