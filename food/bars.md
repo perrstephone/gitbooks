@@ -57,3 +57,23 @@ Location: The Loop
 Budget: $20 per drink
 
 {% embed url="https://www.thebazaar.com/bar-mar-chicago-menu/" %}
+
+## LondonHouse
+
+LondonHouse is hotel at the corner of Wacker and Michigan Ave in the Loop, and its rooftop bar has some of the best views of the entire city. The cocktails are pricey and sufficient for the price, but the primary reason to go to London House is for the view of the city. We'd recommend a round of cocktails on the outdoor rooftop area before heading somewhere else for more substantial food and cocktails. Make reservations months in advance as the rooftop is a very popular spot.
+
+Location: The Loop
+
+Budget: $20 per drink
+
+{% embed url="https://londonhousechicago.com/rooftop/" %}
+
+## The Office
+
+The Office is a tiny speakeasy within the Aviary, and both are Alinea group restaurants. The restaurants capacity is approximately 20 people. The Office is an exceptional bar serving a rotating menu of classic cocktails and creative cocktails, such as a cocktail meant to taste like a Chicago hot dog. Their menu also contains small plates (e.g. oysters, truffle popcorn), which can be purchased a la carte or as a part of a dinner/drinks package. Reservations recommended.
+
+Location: West Loop
+
+Budget: $50-$100 per person
+
+{% embed url="https://www.theaviary.com/the-office" %}

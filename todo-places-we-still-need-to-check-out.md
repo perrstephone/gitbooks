@@ -12,7 +12,6 @@ description: >-
 * [ ] Cafe Deko
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
-* [ ] London House
 * [ ] Aire Ancient Baths
 * [ ] Tao
 * [ ] Minghin Cuisine
