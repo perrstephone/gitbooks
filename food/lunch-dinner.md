@@ -1,7 +1,8 @@
 ---
 description: >-
   These are places that I would go to for either lunch or dinner. I note
-  formality and whether they are open only for lunch or dinner on them.
+  formality and whether they are open only for lunch or dinner on them. Budget
+  is per person (pp).
 cover: ../.gitbook/assets/Screen Shot 2022-08-14 at 8.39.54 PM.png
 coverY: 0
 ---
@@ -14,7 +15,7 @@ Billy Goat Tavern is the tavern famous for the "CHEEZBORGER" SNL skit and the Bi
 
 Location(s): Streeterville (original), Loop, Wrigleyville, Navy Pier
 
-Budget: $7 for a burger and $3 for a Coke, so approximately $10 for a meal per person.
+Budget: $10
 
 {% embed url="https://www.billygoattavern.com/" %}
 
@@ -24,7 +25,7 @@ Chicago is home to McDonald's global headquarters. In addition to their global h
 
 Location: West Loop
 
-Budget: Likely around $8 for a full meal.&#x20;
+Budget: $10
 
 {% embed url="https://www.ubereats.com/store/mcdonalds-global-menu-restaurant/l60CCNz0RNi_6IsxFoPzEw/f3f308a2-ac92-5f66-b775-44ae20d9d0bb" %}
 
@@ -34,7 +35,7 @@ Portillo's is a fast food chain resturant that serves traditional Chicago delica
 
 Location: River North
 
-Budget: $5 for a hot dog, $5 for cheese fries, and $3 for a pop, so approximately $13 for a meal per person.&#x20;
+Budget: $15
 
 {% embed url="https://www.portillos.com/index.html" %}
 
@@ -44,7 +45,7 @@ The French Market is a year-round market with several vendors that sell various 
 
 Location: West Loop
 
-Budget: Expect to spend $10-$15 for a typical entree.&#x20;
+Budget: $10-$15
 
 {% embed url="https://frenchmarketchicago.com/" %}
 
@@ -54,7 +55,7 @@ Cafecito is a local Cuban chain resturant. Great sandwiches for a reasonable pri
 
 Location(s): Loop, South Loop, Streeterville, Lincoln Park&#x20;
 
-Budget: $10 for a standard Cubano.
+Budget: $10
 
 {% embed url="http://chi.iheartcafecito.com/" %}
 
@@ -64,7 +65,7 @@ Nando's is a South African/Portugese chain resturant. There are a lot of these i
 
 Location(s): Streeterville, Loop, South Loop, Old Town, Lakeview, etc.
 
-Budget: $13 for a chicken sandwich and a side.
+Budget: $15
 
 {% embed url="https://www.nandosperiperi.com/" %}
 
@@ -74,7 +75,7 @@ Monk's Pub is a pub with reasonably priced food. The interior is decorated to lo
 
 Location: Loop
 
-Budget: $15 for a standard burger.&#x20;
+Budget: $15&#x20;
 
 {% embed url="https://www.monkspubchicago.com/" %}
 
@@ -84,7 +85,7 @@ There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we ref
 
 Location: River North&#x20;
 
-Budget: Expect to spend about $30 per pizza, which may serve 3 or more people. This total may go up if you dine in and get cocktails.&#x20;
+Budget: $40 (serves several people)
 
 {% embed url="https://www.pizzeriaunodue.com/" %}
 
@@ -94,7 +95,7 @@ Harry Carey's at Navy Pier is an excellent sports-centric tavern on Navy Pier th
 
 Location: Navy Pier
 
-Budget: A standard burger will cost about $17 and a margarita will cost $12, bringing a per person total with tip up to about $35.&#x20;
+Budget: $25-$50
 
 {% embed url="https://www.harrycarays.com/harry-carays-tavern-navy-pier.html" %}
 
@@ -104,7 +105,7 @@ Heavy Metal Restaurant with great burgers that are named and vaguely themed afte
 
 Location: Fulton Market, Avondale, Schaumbourg
 
-Budget: Most burgers are $18, $22 with tip.&#x20;
+Budget:  $25-$50
 
 {% embed url="https://kumascorner.com/location/kumas-corner/" %}
 
@@ -114,7 +115,7 @@ Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they
 
 Location: Streeterville
 
-Budget: $8 for classic maki, $18 for specialty rolls, and $12 for a cocktail.&#x20;
+Budget: $50&#x20;
 
 {% embed url="https://www.niusushi.com/" %}
 
@@ -124,7 +125,7 @@ This steakhouse and seafood resturant is a part of an upscale chain. It resides 
 
 Location: Loop
 
-Budget: For lunch, an entree is $16 and a drink is $13, making a total for one person with tip $35.
+Budget: $25-$50 (for lunch)
 
 {% embed url="https://www.mccormickandschmicks.com/location/mccormick-schmicks-chicago-il/#lunch-dinner-mswa" %}
 
@@ -134,7 +135,7 @@ Athena Restaurant is a stunning Greek restaurant in Greektown. This restaurant b
 
 Location: Greektown
 
-Budget: A gyro plate is $17 & another $13 for a cocktail. With tip, we anticipate this will cost $36 per person.&#x20;
+Budget: $25-$50
 
 {% embed url="https://www.athenachicago.com/" %}
 
@@ -144,7 +145,7 @@ D4 Irish Pub offer classic Irish cuisine in an upscale setting. This restaurant 
 
 Location: Streeterville
 
-Budget: An entree averages around $20, and a cocktail runs around $13. Total with tip per person is approximately $40.&#x20;
+Budget: $25-$50
 
 {% embed url="https://www.d4pub.com/" %}
 
@@ -154,7 +155,7 @@ Machine is a beautiful restaurant serving New American food and exceptionally cr
 
 Location: Wicker Park
 
-Budget: A burger entree with fries is $17 and a breakable cocktail is $16, so a per person total with tip will be about $40.&#x20;
+Budget: $50-$75
 
 {% embed url="https://www.dinemachine.com/" %}
 
@@ -166,7 +167,7 @@ The Italian Village is an Italian restaurant in downtown Chicago that serves ups
 
 Location: Loop
 
-Budget: Expect to spend $20-$30 on a main dish and $13 for a glass of wine, bringing to per person total to $40-$52.&#x20;
+Budget: $50-$75
 
 {% embed url="https://italianvillage-chicago.com/the-village/" %}
 
@@ -176,17 +177,17 @@ Sayat Nova is a restaurant that serves authentic Armenian food. Sayat Nova errs 
 
 Location: Streeterville
 
-Budget: $25 for a kebab entree with a side & $13 house cocktail will run $45 (with tip) per person.
+Budget: $50-$75
 
 {% embed url="https://sayatnovachicago.com/menu" %}
 
 ## Gilt Bar
 
-Gilt is an upscale speakeasy-style bar that serves high-end cocktails and food. Gilt is generally only open for dinner. A highlight about Gilt is their happy hour: 4:00pm to 5:30pm Gilt serves $5 highballs, old-fashioneds, mussels, and more. Additionally, there is a second true speakeasy in the basement called The Library. I would recommend business casual/cocktail attire for both restaurants. :fire:(Happy Hour)
+Gilt is an upscale speakeasy-style bar that serves high-end cocktails and food. Gilt is generally only open for dinner. A highlight about Gilt is their happy hour: 4:00pm to 5:30pm Gilt serves $5 highballs, old-fashioneds, mussels, and more. Additionally, there is a second true speakeasy in the basement called The Library. I would recommend business casual/cocktail attire for both restaurants. Go during happy hour for the best deal! If you go after happy hour, entrees run $30 each and cocktails are $15 each.  :fire:(Happy Hour)
 
 Location: River North
 
-Budget: Go during happy hour for the best deal! If you go after happy hour, entrees run $30 each and cocktails are $15 each.&#x20;
+Budget: $50-$75 (except happy hour!)&#x20;
 
 {% embed url="https://www.giltbarchicago.com/" %}
 
@@ -196,7 +197,7 @@ This is a very cool venue and revival speakeasy restaurant. The door is unmarked
 
 Location: River North
 
-Budget: Burger is $19 and a cocktail is $16, so expect to spend around $42 per person with tip.&#x20;
+Budget: $50-$75&#x20;
 
 {% embed url="https://untitledsupperclub.com/" %}
 
@@ -206,7 +207,7 @@ Au Cheval is an iconic burger restaurant and is commonly considered one of the b
 
 Location: West Loop
 
-Budget: Recommended order is a single cheeseburger with egg and bacon ($24) with a cocktail of the diner's choice ($14), meaning about $46 per person.&#x20;
+Budget: $50-$75&#x20;
 
 {% embed url="http://auchevaldiner.com/chicago/food-drink/" %}
 
@@ -216,7 +217,7 @@ CH Distillery/Jinsei Motto is a combination restaurant/bar that serves high-end 
 
 Location: West Loop
 
-Budget: $20 for maki and $17 for a cocktail, so $45 per person for a meal.&#x20;
+Budget: $50-$75&#x20;
 
 {% embed url="https://chdistillery.com/bar/" %}
 
@@ -226,7 +227,7 @@ The Chicago Weber Grill restaurant offers upscale charcoal-grilled food on their
 
 Location: River North
 
-Budget: $32 for a steak and fries entree with a $13 cocktail will cost about $53 per person with tip.&#x20;
+Budget: $50-$75&#x20;
 
 {% embed url="https://webergrillrestaurant.com/chicago/" %}
 
@@ -236,7 +237,7 @@ Le Colonial is an upscale French-Vietnamese restaurant in Gold Coast. Residing i
 
 Location: Gold Coast
 
-Budget: Expect to spend $30 for an entree and $15 for a cocktail, bringing the total to around $68 per person.&#x20;
+Budget: $50-$100
 
 {% embed url="https://www.lecolonialchicago.com/" %}
 
@@ -246,19 +247,9 @@ Morton's is an upscale international steakhouse chain that originated in Chicago
 
 Location: Loop
 
-Budget: Around $60 for a New York strip steak and $18 for a house cocktail, bringing the total with tip to about $95 per person.
+Budget: $100+
 
 {% embed url="https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/" %}
-
-## The Signature Room at the 95th&#x20;
-
-The Signature Room and Lounge at the 95th is a swanky restaurant that resides at two of the top floors at the former John Hancock building. This restaurant offers a unique sky-high view of the entire city of Chicago while enjoying high-end food like steaks. More formal attire is recommended. If you want to enjoy the view without the dinner, the lounge offers cocktails and lighter snacks.&#x20;
-
-Location: Streeterville
-
-Budget: Average $60 for an entree and $16 for a cocktail, bringing the per person with tax total to approximately $92.
-
-{% embed url="https://www.signatureroom.com/" %}
 
 ## Odyssey Dinner Cruise
 
@@ -266,7 +257,7 @@ The Odyssey dinner cruise is one of the more expensive meals in Chicago. The Ody
 
 Location: Navy Pier (lake cruise), Streeterville (river cruise)
 
-Budget: $200 per person for the cruise and dinner.&#x20;
+Budget: $200+&#x20;
 
 {% embed url="https://navypier.org/listings/listing/odyssey-lake-michigan-dinner-cruise" %}
 
@@ -276,6 +267,6 @@ Alinea is the indisputable premiere restaurant in the city of Chicago. This esta
 
 Location: Lincoln Park
 
-Budget: Approximately $500 per person, add another $200 each for the wine pairing. The price may vary by floor.&#x20;
+Budget: $500+
 
 {% embed url="https://www.alinearestaurant.com/" %}

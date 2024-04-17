@@ -10,21 +10,17 @@ description: >-
 * [ ] Disco&#x20;
 * [ ] Bassment
 * [ ] King of Cups
-* [ ] The Drifter
 * [ ] Cafe Deko
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
 * [ ] London House
-* [ ] Berlin
 * [ ] Aire Ancient Baths
 * [ ] Tao
 * [ ] Minghin Cuisine
 * [ ] Hala Kahiki (River Grove)
 * [ ] Bourbon on Division (just past machine)
-* [ ] Alinea
 * [ ] Carroll Avenue ([https://www.atlasobscura.com/places/carroll-avenue](https://www.atlasobscura.com/places/carroll-avenue))
 * [ ] Money Museum ([https://www.atlasobscura.com/places/money-museum](https://www.atlasobscura.com/places/money-museum))
-* [ ] Frontera Grill/Topolobampo
 * [ ] Aviary
 * [ ] Bar Mar
 * [ ] Matchbox Bar

@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🏙 Welcome to Chicago!](README.md)
+* [🏙️ Welcome to Chicago!](README.md)
 
 ## 🥪 Food
 
@@ -8,17 +8,14 @@
 * [🍔 Lunch/Dinner](food/lunch-dinner.md)
 * [🥂 Bars](food/bars.md)
 
-## 🛵 Activity
+## 🛵 Activities
 
-* [🖼 Museums](activity/museums.md)
-* [⛴ Tours/Shows](activity/tours-shows.md)
-* [🛍 Shopping](activity/shopping.md)
-* [🎡 Attractions](activity/attractions.md)
-
-## 🌡 Seasonal
-
-* [☀ Summer](seasonal/summer.md)
-* [❄ Winter](seasonal/winter.md)
+* [💎 Hidden Gems](activities/hidden-gems.md)
+* [🌞 Seasonal](activities/seasonal.md)
+* [🖼️ Museums](activities/museums.md)
+* [⛴️ Tours/Shows](activities/tours-shows.md)
+* [🛍️ Shopping Districts](activities/shopping-districts.md)
+* [🎡 Attractions](activities/attractions.md)
 
 ***
 

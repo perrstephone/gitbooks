@@ -6,13 +6,23 @@ coverY: 0
 
 # 🥞 Breakfast/Cafes
 
+## Move Along Coffee
+
+Move Along is a walk-up, take-away cafe in the West Town area. This cafe serves coffee and teas in addition to select baked goods. The building is decorated with a stunning skeleton mural. This is a great place for getting a coffee while walking a dog.
+
+Location: West Town
+
+Budget: $5-$10
+
+{% embed url="https://www.movealongcoffee.com/" %}
+
 ## Do-Rite Donuts
 
 Do-Rite is a local Chicago donut chain. They serve excellent donuts and breakfast sandwiches as well as local coffee from Dark Matter Coffee. Excellent for on-the-go breakfast. I recommend ordering online to save time. It can have a bit of a line at peak times. :star::fire:
 
 Location(s): Loop, Streeterville, West Loop, Wrigleyville
 
-Budget: Approximately $7 for a breakfast sandwich and $3 for a coffee, so $10 breakfast per person.&#x20;
+Budget: $10
 
 {% embed url="https://www.doritedonuts.com/" %}
 
@@ -22,7 +32,7 @@ Stan's Donuts is another local donut chain. They have very cute donuts, and a mo
 
 Location(s): Loop, West Loop, South Loop, Streeterville, Wicker Park, Lakeview
 
-Budget: Approximately $5 for a breakfast sandwich, $3 for a donut, and $3 for a coffee, so $11 for breakfast per person.&#x20;
+Budget: $10-$20
 
 {% embed url="https://www.stansdonuts.com/" %}
 
@@ -32,7 +42,7 @@ A small Italian cafe/store/bakery that serves a variety of pastries and fresh ma
 
 Location: River North
 
-Budget: $6.50 for a breakfast croissant and about $4 for a coffee, plus $1 tip, brings a per person total to $11.50.
+Budget: $10-$15
 
 {% embed url="https://lappetito.com/" %}
 
@@ -42,7 +52,7 @@ Egg Harbor is a sit-down breakfast chain. This is one of the more reasonably pri
 
 Location(s): Streeterville, more in the suburbs
 
-Budget: A traditional skillet combo is about $13, plus coffee and tip, would make this approximately $20 per person.
+Budget: $20-$30
 
 {% embed url="https://eggharborcafe.com/" %}
 
@@ -52,16 +62,6 @@ The Nutella Cafe is a cafe in Chicago that primarily serves Nutella-based produc
 
 Location: Loop
 
-Budget: I can't find an online menu to refer to, but I do think it could be around $10 for a snack, such as gelato.&#x20;
+Budget: $10-$20
 
 {% embed url="https://www.nutella.com/int/en/discover-the-news/nutella-cafe" %}
-
-## Starbucks Reserve Chicago
-
-The Starbucks Roastery is one of the largest Starbucks in the world. This multi-level Michigan Ave Reserve location serves everything from regular coffee to espresso martinis to baked goods. It frequently has a line out the door to go in. :fire:
-
-Location: Streeterville
-
-Budget: $7 for a coffee, $17 for a cocktail.&#x20;
-
-{% embed url="https://www.starbucksreserve.com/en-us/locations/chicago" %}

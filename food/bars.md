@@ -8,13 +8,23 @@ coverY: 0
 
 # 🥂 Bars
 
+## The Drifter
+
+The Drifter is a classic speakeasy hidden in the basement of the Green Door Tavern. This speakeasy uses a tarot card based cocktail menu in which the cocktail menu is determined by which tarot cards are drawn from the deck for that day. In addition to the tarot card menu, The Drift also charges a $6 pp cover after 6:30 for the shows, which can range from piano to burlesque.&#x20;
+
+Location: River North
+
+Budget: $15 per drink
+
+{% embed url="https://www.thedrifterchicago.com/" %}
+
 ## Streeterville Social
 
 Streeterville social is a seasonal rooftop bar that is open in the summer. This bar overlooks the Chicago river from the Lowes building. They also have a food menu.&#x20;
 
 Location: Streeterville
 
-Budget: $15 per drink, so $18 per person with tax assuming one drink per person.&#x20;
+Budget: $15 per drink
 
 {% embed url="https://www.loewshotels.com/chicago-downtown/streeterville-social" %}
 
@@ -24,6 +34,26 @@ Three Dots and a Dash is a speakeasy-style bar that serves over-the-top tikis. T
 
 Location: River North
 
-Budget: $15 per drink, so at two drinks per person with tip: $36 per person per visit.&#x20;
+Budget: $15 per drink
 
 {% embed url="https://www.threedotschicago.com/" %}
+
+## Violet Hour
+
+Violet Hour is one of the best cocktail lounges in the city of Chicago. The bar itself is hidden behind a nondescript door with a purple light shining on it. Their cocktails are bespoke and non-traditional. In addition to their excellent cocktails, they serve a limited food menu that includes a pretty good burger. :star::fire:
+
+Location: Wicker Park
+
+Budget: $20 per drink
+
+{% embed url="https://www.theviolethour.com/" %}
+
+## Bar Mar
+
+Bar Mar is an upscale seafood restaurant and cocktail bar.  We can't speak on Bar Mar's food menu as it is, in our opinion, price prohibitive, but their cocktails are incredibly good. They experiment a lot with dry ice, which makes for a unique cocktail experience that you cannot replicate at home. We recommend going for anything that has "aromatic cloud" or "liquid nitrogen" as ingredients.&#x20;
+
+Location: The Loop
+
+Budget: $20 per drink
+
+{% embed url="https://www.thebazaar.com/bar-mar-chicago-menu/" %}

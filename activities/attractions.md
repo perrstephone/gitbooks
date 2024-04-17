@@ -48,6 +48,16 @@ Location: Loop/Streeterville, Lake
 
 Budget: $0+, entry is free but you may want some money for snacks/cocktail.
 
+## Starbucks Reserve Chicago
+
+The Starbucks Roastery is one of the largest Starbucks in the world. This multi-level Michigan Ave Reserve location serves everything from regular coffee to espresso martinis to baked goods. It frequently has a line out the door to go in. :fire:
+
+Location: Streeterville
+
+Budget: $7 for a coffee, $17 for a cocktail.&#x20;
+
+{% embed url="https://www.starbucksreserve.com/en-us/locations/chicago" %}
+
 ## Sears Tower
 
 The Sears/Willis Tower is the tallest building in Chicago. The top of the tower has an observatory as well as the "Ledge". The Ledge is a glass box that extends off the the side of the tower, providing a full view of what Chicago looks like at over 1,300 feet in the air.&#x20;
