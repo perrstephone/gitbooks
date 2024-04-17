@@ -58,7 +58,7 @@ Budget: $20-$30
 
 ## Avec
 
-Avec is a pair of two mediterranean resturants in the downtown area of Chicago. We've only had brunch at Avec, but we loved it. The food is delicious, savory, and refined, making for an excellent upscale brunch spot.&#x20;
+Avec is a pair of Mediterranean restaurants in the downtown area of Chicago. We've only had brunch at Avec, but we loved it. The food is delicious, savory, and refined, making for an excellent upscale brunch spot.&#x20;
 
 Location: West Loop, River North
 

@@ -7,7 +7,6 @@ description: >-
 
 # 📋 Todo: Places We Still Need to Check Out
 
-* [ ] Disco&#x20;
 * [ ] Bassment
 * [ ] King of Cups
 * [ ] Cafe Deko
@@ -22,6 +21,5 @@ description: >-
 * [ ] Carroll Avenue ([https://www.atlasobscura.com/places/carroll-avenue](https://www.atlasobscura.com/places/carroll-avenue))
 * [ ] Money Museum ([https://www.atlasobscura.com/places/money-museum](https://www.atlasobscura.com/places/money-museum))
 * [ ] Aviary
-* [ ] Bar Mar
 * [ ] Matchbox Bar
 * [ ] The Press Room
