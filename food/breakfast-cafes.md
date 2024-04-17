@@ -56,12 +56,12 @@ Budget: $20-$30
 
 {% embed url="https://eggharborcafe.com/" %}
 
-## Nutella Cafe
+## Avec
 
-The Nutella Cafe is a cafe in Chicago that primarily serves Nutella-based products. It's super fun, and they serve a little of everything. This place is popular and frequently has a line.&#x20;
+Avec is a pair of two French resturants in the downtown area of Chicago. We've only had brunch at Avec, but we loved it. The food is delicious, savory, and refined, making for an excellent upscale brunch spot.&#x20;
 
-Location: Loop
+Location: West Loop, River North
 
-Budget: $10-$20
+Budget: $20-$30 (for breakfast/brunch)
 
-{% embed url="https://www.nutella.com/int/en/discover-the-news/nutella-cafe" %}
+{% embed url="https://www.avecrestaurant.com/" %}

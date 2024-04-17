@@ -20,7 +20,7 @@ Location: Roscoe Village
 
 {% embed url="https://thelastchapterbookshop.com/" %}
 
-AIR Aerial Fitness
+## AIR Aerial Fitness
 
 If you'd like to workout during your stay, I recommend trying out aerial gyms. AIR is a great gym that specializes in aerial hammocks. The classes range from traditional conditioning in their "foundations" courses to yoga using the fabrics in their "flow" courses.
 
