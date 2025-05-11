@@ -14,7 +14,7 @@ Second City is a premiere improv comedy troupe that has been based and continual
 
 Location: Old Town
 
-Budget: $25+ per person.
+Budget: \$$
 
 {% embed url="https://www.secondcity.com/" %}
 

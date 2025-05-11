@@ -14,7 +14,6 @@ description: >-
 * [ ] Michael Jordan Steakhouse
 * [ ] Aire Ancient Baths
 * [ ] Tao
-* [ ] Minghin Cuisine
 * [ ] Hala Kahiki (River Grove)
 * [ ] Bourbon on Division (just past machine)
 * [ ] Carroll Avenue ([https://www.atlasobscura.com/places/carroll-avenue](https://www.atlasobscura.com/places/carroll-avenue))
