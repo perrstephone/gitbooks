@@ -11,9 +11,11 @@ coverY: 0
 
 ## Billy Goat Tavern
 
-Billy Goat Tavern is the tavern famous for the "CHEEZBORGER" SNL skit and the Billy Goat Cubs Curse ([https://en.wikipedia.org/wiki/Curse\_of\_the\_Billy\_Goat](https://en.wikipedia.org/wiki/Curse\_of\_the\_Billy\_Goat)). This iconic Chicago location literally is underground as it lives under Michigan Ave. There are multiple locations, but I recommend the original. It's a great place if you want to enjoy a cheeseburger in a historic resturant.
+Billy Goat Tavern is the tavern famous for the "CHEEZBORGER" SNL skit and the Billy Goat Cubs Curse ([https://en.wikipedia.org/wiki/Curse\_of\_the\_Billy\_Goat](https://en.wikipedia.org/wiki/Curse_of_the_Billy_Goat)). This iconic Chicago location literally is underground as it lives under Michigan Ave. There are multiple locations, but I recommend the original. It's a great place if you want to enjoy a cheeseburger in a historic restaurant.
 
-Location(s): Streeterville (original), Loop, Wrigleyville, Navy Pier
+Food: American, Burger
+
+Location(s): Streeterville, Loop, Wrigleyville, Navy Pier
 
 Budget: $10
 
@@ -23,6 +25,8 @@ Budget: $10
 
 Chicago is home to McDonald's global headquarters. In addition to their global headquarters, their famous Hamburger University training center is also located in West Loop. Within Hamburger University is the international McDonald's. This McDonald's has all the food you're familiar with as well as menu items from China, France, and more.&#x20;
 
+Food: American, Burger, Chicken
+
 Location: West Loop
 
 Budget: $10
@@ -31,7 +35,9 @@ Budget: $10
 
 ## Portillo’s
 
-Portillo's is a fast food chain resturant that serves traditional Chicago delicacies, such as Italian beef sandwich, Chicago-style hotdog, and a chocolate cake shake.&#x20;
+Portillo's is a fast food chain restaurant that serves traditional Chicago street food, such as Italian beef sandwich, Chicago-style hotdog, and a chocolate cake shake.&#x20;
+
+Food: American, Hot Dog, Italian Beef
 
 Location: River North
 
@@ -43,6 +49,8 @@ Budget: $15
 
 The French Market is a year-round market with several vendors that sell various cuisines. They have Cuban food, Boba tea, a bakery, and more. This location is especially good for getting lunch for an indecisive crowd with diverse tastes. It also provides quick access to a few hubs for transit (Ogilvie train station, for example). Note that the French Market is typically only open for lunch. :fire:
 
+Food: Multinational
+
 Location: West Loop
 
 Budget: $10-$15
@@ -53,35 +61,27 @@ Budget: $10-$15
 
 Cafecito is a local Cuban chain resturant. Great sandwiches for a reasonable price. :fire:
 
+Food: Cuban
+
 Location(s): Loop, South Loop, Streeterville, Lincoln Park&#x20;
-
-Budget: $10
-
-{% embed url="http://chi.iheartcafecito.com/" %}
-
-## Nando’s
-
-Nando's is a South African/Portugese chain resturant. There are a lot of these in Europe, but Chicago and DC are also a big US hubs for the chain. They are famous for their peri-peri chicken, but they have non-spicy options as well. :fire:
-
-Location(s): Streeterville, Loop, South Loop, Old Town, Lakeview, etc.
 
 Budget: $15
 
-{% embed url="https://www.nandosperiperi.com/" %}
+{% embed url="http://chi.iheartcafecito.com/" %}
 
-## Monk’s Pub
+## Green Street Smoked Meats
 
-Monk's Pub is a pub with reasonably priced food. The interior is decorated to look like it's from a very old-fashioned English town pub.&#x20;
 
-Location: Loop
 
-Budget: $15&#x20;
+## Sushi-San
 
-{% embed url="https://www.monkspubchicago.com/" %}
+
 
 ## Pizzeria Uno
 
-There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we refer to here is the original place that deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. This restaurant is very small and very popular, so I recommend either getting takeout or going early on a weekday to decrease your chances of having to wait for awhile.&#x20;
+There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we refer to here is the original place that deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. This restaurant is very small and very popular, so we recommend either getting takeout or going early on a weekday to decrease your chances of having to wait for awhile.&#x20;
+
+Food: Deep Dish
 
 Location: River North&#x20;
 
@@ -89,45 +89,17 @@ Budget: $40 (serves several people)
 
 {% embed url="https://www.pizzeriaunodue.com/" %}
 
-## Harry Carey’s at Navy Pier
-
-Harry Carey's at Navy Pier is an excellent sports-centric tavern on Navy Pier that offers delicious burgers and cocktails with a view of the lake. The restaurant's namesake Harry Carey was a very famous sportscaster, and his resturants are lined with famous sports memorabilia and pictures of celebrities visiting the bar. They have a patio that is also dog friendly.&#x20;
-
-Location: Navy Pier
-
-Budget: $25-$50
-
-{% embed url="https://www.harrycarays.com/harry-carays-tavern-navy-pier.html" %}
-
-## Kuma's Corner
-
-Heavy Metal Restaurant with great burgers that are named and vaguely themed after various bands.&#x20;
-
-Location: Fulton Market, Avondale, Schaumbourg
-
-Budget:  $25-$50
-
-{% embed url="https://kumascorner.com/location/kumas-corner/" %}
-
 ## Niu Japanese Fusion
 
 Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier. :fire:
+
+Food: Japanese, Sushi
 
 Location: Streeterville
 
 Budget: $50&#x20;
 
 {% embed url="https://www.niusushi.com/" %}
-
-## McCormick & Schmick's
-
-This steakhouse and seafood resturant is a part of an upscale chain. It resides right along the river in the loop, making nearby several major attractions. The food is excellent, and the cocktails are delicious and reasonably priced. We strongly recommend the lunch menu as it is signficantly cheaper while maintaining the high-end restuarant vibe.&#x20;
-
-Location: Loop
-
-Budget: $25-$50 (for lunch)
-
-{% embed url="https://www.mccormickandschmicks.com/location/mccormick-schmicks-chicago-il/#lunch-dinner-mswa" %}
 
 ## Athena Restaurant
 
@@ -153,7 +125,9 @@ Budget: $25-$50
 
 Machine is a beautiful restaurant serving New American food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine. If you're looking for an activity, Machine also offers cocktail workshops for approximately $70 per person (21+ experience). Machine also offers a patio that is dog friendly. Machine happy hour is Wednesday, Thursday, and Friday from 4-6pm, which features half-off communal cocktails and $13 mussels. This is a must if you like cocktails.:star::fire:
 
-Location: Wicker Park
+Food: New American, Cocktails
+
+Location: River North
 
 Budget: $50-$75
 
@@ -221,16 +195,6 @@ Budget: $50-$75&#x20;
 
 {% embed url="https://chdistillery.com/bar/" %}
 
-## Weber Grill Chicago
-
-The Chicago Weber Grill restaurant offers upscale charcoal-grilled food on their eponymous Weber Grills. It's typical backyard American food, burgers, barbeque, and steaks with a smokey flavor. :fire:
-
-Location: River North
-
-Budget: $50-$75&#x20;
-
-{% embed url="https://webergrillrestaurant.com/chicago/" %}
-
 ## Le Colonial&#x20;
 
 Le Colonial is an upscale French-Vietnamese restaurant in Gold Coast. Residing in the heart of a luxury shopping district, this restaurant provides a high-end atmosphere with some truly delicious food. Business casual/somewhat dressy attire recommended. :fire:
@@ -241,16 +205,6 @@ Budget: $50-$100
 
 {% embed url="https://www.lecolonialchicago.com/" %}
 
-## Morton’s
-
-Morton's is an upscale international steakhouse chain that originated in Chicago. Morton's has a very luxurious atmosphere, so formal/cocktail attire is recommended. Morton's is a great place for celebrating anniversaries or birthdays. Tip: If you tell them you are celebrating a birthday, they comp dessert.&#x20;
-
-Location: Loop
-
-Budget: $100+
-
-{% embed url="https://www.mortons.com/location/mortons-the-steakhouse-chicago-il-wacker-place/" %}
-
 ## Odyssey Dinner Cruise
 
 The Odyssey dinner cruise is one of the more expensive meals in Chicago. The Odyssey offers a gourmet meal while taking patrons on a 2-3 hour luxury cruise on the lake or river. This is an excellent experience that I would strongly recommend for a graduation, anniversary, or birthday. The attire is cocktail/formal. :star:
@@ -260,6 +214,10 @@ Location: Navy Pier (lake cruise), Streeterville (river cruise)
 Budget: $200+&#x20;
 
 {% embed url="https://navypier.org/listings/listing/odyssey-lake-michigan-dinner-cruise" %}
+
+## Fyre
+
+
 
 ## Alinea
 
