@@ -8,14 +8,16 @@ description: >-
 # 📋 Todo: Places We Still Need to Check Out
 
 * [ ] Bassment
-* [ ] King of Cups
+* [ ] Map Room
 * [ ] Cafe Deko
+* [ ] Truce
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
 * [ ] Aire Ancient Baths
 * [ ] Tao
 * [ ] Hala Kahiki (River Grove)
-* [ ] Bourbon on Division (just past machine)
+* [ ] Bourbon on Division&#x20;
+* [ ] The Revel Room
 * [ ] Carroll Avenue ([https://www.atlasobscura.com/places/carroll-avenue](https://www.atlasobscura.com/places/carroll-avenue))
 * [ ] Money Museum ([https://www.atlasobscura.com/places/money-museum](https://www.atlasobscura.com/places/money-museum))
 * [ ] Aviary

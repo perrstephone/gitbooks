@@ -8,6 +8,18 @@ coverY: 0
 
 # 🥂 Bars
 
+## Slightly Toasted
+
+Slightly Toasted is one of the best whiskey bars in the Chicago area. They have a plinko you-get-what-you-get style game for $5 a play/pour, which may land you some Malort or some Pappy. Play at your own risk. Their happy hour is called Whiskey Wednesdays, and they offer half price pours of whiskeys. Keep an eye on their Instagram for events and bottle shares.&#x20;
+
+Food: Whiskey, Mexican
+
+Location: West Loop
+
+Budget: $12 per drink
+
+{% embed url="https://slightlytoasted.com/" %}
+
 ## The Drifter
 
 The Drifter is a classic speakeasy hidden in the basement of the Green Door Tavern. This speakeasy uses a tarot card based cocktail menu in which the cocktail menu is determined by which tarot cards are drawn from the deck for that day. In addition to the tarot card menu, The Drift also charges a $6 pp cover after 6:30 for the shows, which can range from piano to burlesque.&#x20;
@@ -58,11 +70,15 @@ Budget: $20 per drink
 
 ## Valedor
 
+Valedor is a Mexican-Japanese fusion bar. This upscale spot is on Milwaukee in Wicker Park, putting it right next to the shopping district in the area. Their happy hour runs from 5-7 every day, with $12 cocktails and $8 tapas on the menu! :star:
 
+Food: Mexican, Japanese
 
-## Dearly Beloved
+Location: Wicker Park
 
+Budget: $20 per drink
 
+{% embed url="https://www.valedorchi.com/" %}
 
 ## Bar Mar
 
@@ -73,6 +89,10 @@ Location: The Loop
 Budget: $20 per drink
 
 {% embed url="https://www.thebazaar.com/bar-mar-chicago-menu/" %}
+
+## Queen Mary
+
+
 
 ## LondonHouse
 

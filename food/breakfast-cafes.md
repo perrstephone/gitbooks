@@ -54,6 +54,30 @@ Budget: $10-$15
 
 {% embed url="https://www.voodoodoughnut.com/" %}
 
+## Publican Quality Bread
+
+Publican Quality Bread is a local bakery with some of the most delicious breads in Chicago. Their sourdough is one of our absolute favorites. :star::fire:
+
+Food: Pastries, Bread, Coffee
+
+Location: West Town
+
+Budget: $15
+
+{% embed url="https://www.publicanqualitybread.com/" %}
+
+## Kasama
+
+Kasama is a Filipino bakery and breakfast spot. Our favorite way to get Kasama is to order at 9am sharp for pickup, and we recommend the cardamom sticky bun. :star:
+
+Food: Filipino, Breakfast
+
+Location: West Town
+
+Budget: $15
+
+{% embed url="https://www.kasamachicago.com/" %}
+
 ## Cafe L'Appetito
 
 A small Italian cafe/store/bakery that serves a variety of pastries and fresh made sandwiches. In addition to traditional Italian cafe fare, this store offers a selection of Italian grocery store items, so it's a great place to pick up little candies, beverages, and cookies. There is a small private outdoor seating area next to the exit of the cafe.&#x20;

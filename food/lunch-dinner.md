@@ -33,6 +33,18 @@ Budget: $10
 
 {% embed url="https://www.ubereats.com/store/mcdonalds-global-menu-restaurant/l60CCNz0RNi_6IsxFoPzEw/f3f308a2-ac92-5f66-b775-44ae20d9d0bb" %}
 
+## Krasa (formerly Lawn)
+
+Krasa is a Ukrainian burger and shawarma restaurant on the border of Wicker Park and West Town. They have a beautiful patio/dine-in area in the back.
+
+Food: Ukrainian, Burgers, Shawarma
+
+Location: WestTown
+
+Budget: $15
+
+{% embed url="https://www.krasacraftrestaurant.com/" %}
+
 ## Portillo’s
 
 Portillo's is a fast food chain restaurant that serves traditional Chicago street food, such as Italian beef sandwich, Chicago-style hotdog, and a chocolate cake shake.&#x20;
@@ -71,11 +83,15 @@ Budget: $15
 
 ## Green Street Smoked Meats
 
+Green Street Smokes Meats serves a Texan-inspired BBQ in warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company.&#x20;
 
+Food: BBQ
 
-## Sushi-San
+Location: West Loop
 
+Budget: $25
 
+{% embed url="https://www.greenstreetmeats.com/" %}
 
 ## Pizzeria Uno
 
@@ -135,6 +151,20 @@ Budget: $50-$75
 
 
 
+## Dearly Beloved
+
+Dearly Beloved is Machine's darker sister restaurant. The drinks are experimental and avant garde. There is a drink boasting tarantula tincture, among other items on the menu. :star:
+
+Their chocolate cake is divine.&#x20;
+
+Food: New American, Cocktails
+
+Location: River North
+
+Budget: $50-$75
+
+{% embed url="https://www.dearlybelovedchicago.com/" %}
+
 ## The Italian Village
 
 The Italian Village is an Italian restaurant in downtown Chicago that serves upscale food and wine. The best part about The Italian Village is the atmosphere: the restaurant is decorated to look like a small Italian village in the evening. This part of the restaurant is up on the upper level. Please note that this is not a particularly accessible location as it requires people to go up a steep set of stairs for about two levels, so keep this in mind if you are going with people who have joint issues, bad knees, or other accessibility concerns. I would also recommend dressing business casual for this restaurant.
@@ -185,16 +215,6 @@ Budget: $50-$75&#x20;
 
 {% embed url="http://auchevaldiner.com/chicago/food-drink/" %}
 
-## CH Distillery/Jinsei Motto
-
-CH Distillery/Jinsei Motto is a combination restaurant/bar that serves high-end sushi and cocktails with CH Distillery spirit bases. CH Distillery is Chicago staple for local spirits. Their most famous spirit is Malort, which is a wormwood-based digestif that you unfortunately should try for yourself. The distillery also offers tours for those that wish to make an activity out of their visit as well. :fire:
-
-Location: West Loop
-
-Budget: $50-$75&#x20;
-
-{% embed url="https://chdistillery.com/bar/" %}
-
 ## Le Colonial&#x20;
 
 Le Colonial is an upscale French-Vietnamese restaurant in Gold Coast. Residing in the heart of a luxury shopping district, this restaurant provides a high-end atmosphere with some truly delicious food. Business casual/somewhat dressy attire recommended. :fire:
@@ -215,13 +235,31 @@ Budget: $200+&#x20;
 
 {% embed url="https://navypier.org/listings/listing/odyssey-lake-michigan-dinner-cruise" %}
 
-## Fyre
+## Fire
 
+Fire is a new-concept restaurant by Alinea executive chef Grant Achatz. This concept revolves around fire being the base of all food created. The tasting menu is a multi-course meal containing everything from seafood to meats to mushrooms to desserts. Wine pairing recommended.&#x20;
 
+Food: Smoked, Experimental
+
+Location: West Loop
+
+Budget: $250+
+
+{% embed url="https://www.firebythealineagroup.com/" %}
+
+## Next
+
+Next is the experimental restaurant by Alinea executive chef Grant Achatz. Next operates a rotating menu that changes on a seasonal basis. These can range from Bobby Flay to Charlie Trotter. If you are looking to visit, ensure you have a reservation and are prepared about which menu you are going to get. Wine pairing also recommended here.
+
+Food: Experimental, Conceptual
+
+Budget: $250+
 
 ## Alinea
 
 Alinea is the indisputable premiere restaurant in the city of Chicago. This establishment is the only Chicago restaurant that has been awarded the coveted three Michelin star rating and is commonly considered one of the best restaurants in the world. This is a multi-course tasting menu consisting of creative takes on classic cuisines. This meal is as much food as it is a performance. This is expensive but truly is worth every penny. :star::fire:
+
+Food: Creative
 
 Location: Lincoln Park
 

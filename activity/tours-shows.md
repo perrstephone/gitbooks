@@ -8,15 +8,15 @@ coverY: 0
 
 # ⛴️ Tours/Shows
 
-## Second City
+## Unbridled at Untitled
 
-Second City is a premiere improv comedy troupe that has been based and continually operating in Chicago since the 1950s. The troupe has had graduates that went on to become comedy staples and major SNL performers. John Belushi, Tiny Fey, and Mike Meyers are notable alum.&#x20;
+The Unbridled show is a burlesque/variety show that Untitled Supper Club hosts every Thursday. The shows change and sport new cast members and acts regularly.&#x20;
 
-Location: Old Town
+Location: River North
 
-Budget: \$$
+Budget: $5 entertainment fee + expected spend on food and drinks
 
-{% embed url="https://www.secondcity.com/" %}
+{% embed url="https://untitledsupperclub.com/unbridled/" %}
 
 ## Chicago Crime Tour&#x20;
 
@@ -24,9 +24,19 @@ The Chicago Crime tour takes you around in a charter bus to tell you about Chica
 
 Location: Streeterville
 
-Budget: $42 per person.
+Budget: $42 per person
 
-{% embed url="https://chicagocrimetours.com/" %}
+[https://chicagocrimetours.com/](https://chicagocrimetours.com/)
+
+## Second City
+
+Second City is a premiere improv comedy troupe that has been based and continually operating in Chicago since the 1950s. The troupe has had graduates that went on to become comedy staples and major SNL performers. John Belushi, Tiny Fey, and Mike Meyers are notable alum.&#x20;
+
+Location: Old Town
+
+Budget: $50
+
+{% embed url="https://www.secondcity.com/" %}
 
 ## Chicago Architecture Tour
 
