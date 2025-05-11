@@ -84,15 +84,25 @@ Budget: $20 per drink
 
 Bar Mar is an upscale seafood restaurant and cocktail bar.  We can't speak on Bar Mar's food menu as it is, in our opinion, price prohibitive, but their cocktails are incredibly good. They experiment a lot with dry ice, which makes for a unique cocktail experience that you cannot replicate at home. We recommend going for anything that has "aromatic cloud" or "liquid nitrogen" as ingredients.&#x20;
 
+Food: Spanish
+
 Location: The Loop
 
 Budget: $20 per drink
 
 {% embed url="https://www.thebazaar.com/bar-mar-chicago-menu/" %}
 
-## Queen Mary
+## Queen Mary Tavern
 
+The Queen Mary is a cocktail bar focusing on rum and sherry. Their happy hour sometimes includes "break-even" rum pours for $4 or cheap oysters. Consult their Instagram for the latest happy hour deals.&#x20;
 
+Food: Seafood
+
+Location: Wicker Park
+
+Budget: $20 per drink
+
+{% embed url="https://www.queenmarytavern.com/" %}
 
 ## LondonHouse
 

@@ -253,7 +253,11 @@ Next is the experimental restaurant by Alinea executive chef Grant Achatz. Next 
 
 Food: Experimental, Conceptual
 
-Budget: $250+
+Location: West Loop
+
+Budget: $300+
+
+{% embed url="https://www.nextrestaurant.com/" %}
 
 ## Alinea
 
