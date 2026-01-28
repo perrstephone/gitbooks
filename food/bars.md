@@ -58,6 +58,8 @@ Budget: $15 per drink
 
 ## Violet Hour
 
+_Permanently Closed :_(
+
 Violet Hour is one of the best cocktail lounges in the city of Chicago. The bar itself is hidden behind a nondescript door with a purple light shining on it. Their cocktails are bespoke and non-traditional. In addition to their excellent cocktails, they serve a limited food menu that includes a pretty good burger. :star::fire:
 
 Food: Bar Bites
