@@ -5,12 +5,11 @@ description: >-
   main list. Send recs if you have some!
 ---
 
-# 📋 Todo: Places We Still Need to Check Out
+# 📋 Places We Still Need to Check Out
 
 * [ ] Bassment
 * [ ] Map Room
 * [ ] Cafe Deko
-* [ ] Truce
 * [ ] Chicago Magic Lounge
 * [ ] Michael Jordan Steakhouse
 * [ ] Aire Ancient Baths
@@ -20,6 +19,5 @@ description: >-
 * [ ] The Revel Room
 * [ ] Carroll Avenue ([https://www.atlasobscura.com/places/carroll-avenue](https://www.atlasobscura.com/places/carroll-avenue))
 * [ ] Money Museum ([https://www.atlasobscura.com/places/money-museum](https://www.atlasobscura.com/places/money-museum))
-* [ ] Aviary
 * [ ] Matchbox Bar
 * [ ] The Press Room

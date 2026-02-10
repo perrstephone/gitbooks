@@ -21,4 +21,4 @@
 
 * [🎫 Referral Programs](misc/referral-programs.md)
 * [📚 Additional Resources](misc/additional-resources.md)
-* [📋 Todo: Places We Still Need to Check Out](misc/todo-places-we-still-need-to-check-out.md)
+* [📋 Places We Still Need to Check Out](misc/places-we-still-need-to-check-out.md)

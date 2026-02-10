@@ -74,6 +74,18 @@ Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkin
 
 {% embed url="https://www.valedorchi.com/" %}
 
+## Dorian's&#x20;
+
+Dorian's is a speakeasy that lives behind a small recordshop storefront on North Ave. The bar hosts live music nearly every night at 8pm. Prior to 8pm, the bar hosts a great happy hour so you can indulge while you wait.
+
+Food: Bar Snacks
+
+Location: Wicker Park
+
+Budget: \$$
+
+{% embed url="https://throughtherecordshop.com/" %}
+
 ## Bar Mar
 
 Bar Mar is an upscale seafood restaurant and cocktail bar.  We can't speak on Bar Mar's food menu as it is, in our opinion, price prohibitive, but their cocktails are incredibly good. They experiment a lot with dry ice, which makes for a unique cocktail experience that you cannot replicate at home. We recommend going for anything that has "aromatic cloud" or "liquid nitrogen" as ingredients.&#x20;
