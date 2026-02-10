@@ -68,6 +68,8 @@ Location: West Town
 
 Budget: \$$
 
+Rewards: [One Off Hospitality](../misc/referral-programs.md#one-off-hospitality)
+
 {% embed url="https://www.publicanqualitybread.com/" %}
 
 ### Kasama
