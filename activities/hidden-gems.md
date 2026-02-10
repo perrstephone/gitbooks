@@ -27,3 +27,11 @@ If you'd like to workout during your stay, I recommend trying out aerial gyms. A
 Budget: $25 for unlimited one week pass
 
 {% embed url="https://www.airfitnow.com/" %}
+
+## Sideshow Gallery
+
+An oddities store selling skulls, spells, erotica, and more eccentricities. They also offer spellcasting classes.
+
+Location: Bucktown
+
+{% embed url="https://www.sideshowgallerychicago.com/?srsltid=AfmBOopGobKAVW2SuFZUp36CaHeTuMqNjJe0vkhvxBT_8tsuwEHSp-kZ" %}

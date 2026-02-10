@@ -1,5 +1,5 @@
 ---
-description: This page outlines some things I use when I try to think of things to do.
+description: This page outlines some sites I use when I try to think of things to do.
 ---
 
 # 📚 Additional Resources

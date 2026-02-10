@@ -14,7 +14,7 @@ Timeframe: Late July/Early August
 
 Location: Loop
 
-Budget: $125 for a one day ticket, or about $400 for the whole weekend.
+Budget: $150 for a one day ticket, or about $500 for the whole weekend.
 
 {% embed url="https://www.lollapalooza.com/" %}
 

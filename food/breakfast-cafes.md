@@ -124,7 +124,7 @@ Budget: \$$$
 
 ### Cafe Robey
 
-Cafe Robey is a chic all-day bunch spot nestled within the Robey Hotel, an independent hotel in the heart of wicker park. This classic brunch spot boasts a long list of cocktails and breakfast food, ranging from sweet to savory.  Reservations are a good call for weekends.&#x20;
+Cafe Robey is a chic all-day bunch spot nestled within the Robey Hotel, an independent hotel in the heart of Wicker Park. This classic brunch spot boasts a long list of cocktails and breakfast food, ranging from sweet to savory. Reservations are a good call for weekends.&#x20;
 
 Food: Brunch, Coffee
 

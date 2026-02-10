@@ -9,7 +9,9 @@ coverY: 0
 
 # 🍔 Lunch/Dinner
 
-## Billy Goat Tavern
+## Fast Food & Quick Bites
+
+### Billy Goat Tavern
 
 Billy Goat Tavern is the tavern famous for the "CHEEZBORGER" SNL skit and the Billy Goat Cubs Curse ([https://en.wikipedia.org/wiki/Curse\_of\_the\_Billy\_Goat](https://en.wikipedia.org/wiki/Curse_of_the_Billy_Goat)). This iconic Chicago location literally is underground as it lives under Michigan Ave. There are multiple locations, but I recommend the original. It's a great place if you want to enjoy a cheeseburger in a historic restaurant.
 
@@ -17,11 +19,11 @@ Food: American, Burger
 
 Location(s): Streeterville, Loop, Wrigleyville, Navy Pier
 
-Budget: $10
+Budget: $
 
 {% embed url="https://www.billygoattavern.com/" %}
 
-## International McDonald's at Hamburger University
+### International McDonald's at Hamburger University
 
 Chicago is home to McDonald's global headquarters. In addition to their global headquarters, their famous Hamburger University training center is also located in West Loop. Within Hamburger University is the international McDonald's. This McDonald's has all the food you're familiar with as well as menu items from China, France, and more.&#x20;
 
@@ -29,23 +31,23 @@ Food: American, Burger, Chicken
 
 Location: West Loop
 
-Budget: $10
+Budget: $
 
 {% embed url="https://www.ubereats.com/store/mcdonalds-global-menu-restaurant/l60CCNz0RNi_6IsxFoPzEw/f3f308a2-ac92-5f66-b775-44ae20d9d0bb" %}
 
-## Krasa (formerly Lawn)
+### Krasa&#x20;
 
-Krasa is a Ukrainian burger and shawarma restaurant on the border of Wicker Park and West Town. They have a beautiful patio/dine-in area in the back.
+Krasa (formerly known as Lawn) is a Ukrainian burger and shawarma restaurant on the border of Wicker Park and West Town. They have a beautiful patio/dine-in area in the back.
 
 Food: Ukrainian, Burgers, Shawarma
 
 Location: WestTown
 
-Budget: $15
+Budget: \$$
 
 {% embed url="https://www.krasacraftrestaurant.com/" %}
 
-## Portillo’s
+### Portillo’s
 
 Portillo's is a fast food chain restaurant that serves traditional Chicago street food, such as Italian beef sandwich, Chicago-style hotdog, and a chocolate cake shake.&#x20;
 
@@ -53,11 +55,11 @@ Food: American, Hot Dog, Italian Beef
 
 Location: River North
 
-Budget: $15
+Budget: \$$
 
 {% embed url="https://www.portillos.com/index.html" %}
 
-## French Market
+### French Market
 
 The French Market is a year-round market with several vendors that sell various cuisines. They have Cuban food, Boba tea, a bakery, and more. This location is especially good for getting lunch for an indecisive crowd with diverse tastes. It also provides quick access to a few hubs for transit (Ogilvie train station, for example). Note that the French Market is typically only open for lunch. :fire:
 
@@ -65,23 +67,25 @@ Food: Multinational
 
 Location: West Loop
 
-Budget: $10-$15
+Budget: \$$
 
 {% embed url="https://frenchmarketchicago.com/" %}
 
-## Cafecito&#x20;
+### Cafecito&#x20;
 
-Cafecito is a local Cuban chain resturant. Great sandwiches for a reasonable price. :fire:
+Cafecito is a local Cuban chain restaurant. Great sandwiches for a reasonable price. :fire:
 
 Food: Cuban
 
 Location(s): Loop, South Loop, Streeterville, Lincoln Park&#x20;
 
-Budget: $15
+Budget: \$$
 
 {% embed url="http://chi.iheartcafecito.com/" %}
 
-## Green Street Smoked Meats
+## Casual Sitdown Meal
+
+### Green Street Smoked Meats
 
 Green Street Smokes Meats serves a Texan-inspired BBQ in warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company.&#x20;
 
@@ -89,11 +93,17 @@ Food: BBQ
 
 Location: West Loop
 
-Budget: $25
+Budget: \$$$
 
 {% embed url="https://www.greenstreetmeats.com/" %}
 
-## Pizzeria Uno
+### Pequod's
+
+Pequod's is _the_ local Chicago spot to get deep dish pizza. They have a carmelized crust, which truly sets them apart. The pizzas take an hour to cook, so consider taking an aerial class at Air nextdoor while you wait.:star:
+
+Food: Deep Dish
+
+### Pizzeria Uno
 
 There are Uno's Pizza places, and then there is The Pizzeria Uno. The one we refer to here is the original place that deep dish pizza was invented. This tiny restaurant sits in the heart of River North and serves their original deep dish pizza recipe. This restaurant is very small and very popular, so we recommend either getting takeout or going early on a weekday to decrease your chances of having to wait for awhile.&#x20;
 
@@ -101,7 +111,7 @@ Food: Deep Dish
 
 Location: River North&#x20;
 
-Budget: $40 (serves several people)
+Budget: \$$
 
 {% embed url="https://www.pizzeriaunodue.com/" %}
 
