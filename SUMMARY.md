@@ -17,7 +17,8 @@
 * [🛍️ Shopping Districts](activity/shopping.md)
 * [🎡 Attractions](activity/attractions.md)
 
-***
+## 🦦 Misc
 
-* [📋 Todo: Places We Still Need to Check Out](todo-places-we-still-need-to-check-out.md)
-* [📚 Additional Resources](additional-resources.md)
+* [🎫 Referral Programs](misc/referral-programs.md)
+* [📚 Additional Resources](misc/additional-resources.md)
+* [📋 Todo: Places We Still Need to Check Out](misc/todo-places-we-still-need-to-check-out.md)
