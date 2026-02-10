@@ -16,7 +16,9 @@ Food: Whiskey, Mexican
 
 Location: West Loop
 
-Budget: $12 per drink
+Budget: $
+
+Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkind-rewards)
 
 {% embed url="https://slightlytoasted.com/" %}
 
@@ -28,21 +30,9 @@ Food: Bar Bites
 
 Location: River North
 
-Budget: $15 per drink
+Budget: \$$
 
 {% embed url="https://www.thedrifterchicago.com/" %}
-
-## Streeterville Social
-
-Streeterville social is a seasonal rooftop bar that is open in the summer. This bar overlooks the Chicago river from the Lowes building. They also have a food menu.&#x20;
-
-Food: Bar Bites
-
-Location: Streeterville
-
-Budget: $15 per drink
-
-{% embed url="https://www.loewshotels.com/chicago-downtown/streeterville-social" %}
 
 ## Three Dots and a Dash
 
@@ -52,7 +42,7 @@ Food: Bar Bites, Hawaiian
 
 Location: River North
 
-Budget: $15 per drink
+Budget: \$$
 
 {% embed url="https://www.threedotschicago.com/" %}
 
@@ -66,7 +56,7 @@ Food: Bar Bites
 
 Location: Wicker Park
 
-Budget: $20 per drink
+Budget: \$$
 
 {% embed url="https://www.theviolethour.com/" %}
 
@@ -78,7 +68,9 @@ Food: Mexican, Japanese
 
 Location: Wicker Park
 
-Budget: $20 per drink
+Budget: \$$
+
+Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkind-rewards)
 
 {% embed url="https://www.valedorchi.com/" %}
 
@@ -90,7 +82,9 @@ Food: Spanish
 
 Location: The Loop
 
-Budget: $20 per drink
+Budget: \$$$
+
+Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkind-rewards)
 
 {% embed url="https://www.thebazaar.com/bar-mar-chicago-menu/" %}
 
@@ -102,19 +96,45 @@ Food: Seafood
 
 Location: Wicker Park
 
-Budget: $20 per drink
+Budget: \$$
 
 {% embed url="https://www.queenmarytavern.com/" %}
 
-## LondonHouse
+## Bisous
 
-LondonHouse is hotel at the corner of Wacker and Michigan Ave in the Loop, and its rooftop bar has some of the best views of the entire city. The cocktails are pricey and sufficient for the price, but the primary reason to go to London House is for the view of the city. We'd recommend a round of cocktails on the outdoor rooftop area before heading somewhere else for more substantial food and cocktails. Make reservations months in advance as the rooftop is a very popular spot.
 
-Location: The Loop
 
-Budget: $20 per drink
+## Truce
 
-{% embed url="https://londonhousechicago.com/rooftop/" %}
+Truce is a small cocktail bar that serves espressos late into the night in a romantically lit&#x20;
+
+## Carbon
+
+## Machine
+
+Machine is a beautiful restaurant serving elevated bar food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine.:star::fire:
+
+Food: New American, Cocktails
+
+Location: River North
+
+Budget: \$$$
+
+{% embed url="https://www.dinemachine.com/" %}
+
+## Dearly Beloved
+
+Dearly Beloved is Machine's moodier restaurant. The drinks are experimental and avant garde. There is a drink boasting tarantula tincture, among other items on the menu. :star:
+
+Their chocolate cake is divine.&#x20;
+
+Food: New American, Cocktails
+
+Location: River North
+
+Budget: \$$$
+
+{% embed url="https://www.dearlybelovedchicago.com/" %}
 
 ## The Office
 
@@ -122,6 +142,16 @@ The Office is a tiny speakeasy within the Aviary, and both are Alinea group rest
 
 Location: West Loop
 
-Budget: $50-$100 per person
+Budget: \$$$
 
 {% embed url="https://www.theaviary.com/the-office" %}
+
+## The Aviary
+
+The Aviary is arguably the most prestiege bar in Chicago. Yet another creation from the Alinea group, The Aviary specialized in multi-course cocktail menus. These cocktails are paired with small bar snacks and are presented with the same care Alinea treats all food in their ecosystem.
+
+Location: West Loop
+
+Budget: \$$\$$
+
+{% embed url="https://www.theaviary.com/" %}
