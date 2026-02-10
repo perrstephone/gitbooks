@@ -102,13 +102,41 @@ Budget: \$$
 
 ## Bisous
 
+Bisous is a romantic, walk-in bar in the Fulton Market area of West Loop. Bisous leans into a Parisian theme. You can ask for postcards to write out, and they will send them out for you for free. :star::fire:
 
+Food: Desserts
+
+Location: West Loop
+
+Budget: \$$
+
+{% embed url="https://www.bisouschicago.com/" %}
 
 ## Truce
 
-Truce is a small cocktail bar that serves espressos late into the night in a romantically lit&#x20;
+Truce is a small cocktail bar that serves espressos late into the night. It's dimly lit and offers an intimiate setting for a date night.&#x20;
+
+Food: Coffee, Bar Bites
+
+Location: Wicker Park
+
+Budget: \$$
+
+[https://www.trucechicago.com/](https://www.trucechicago.com/)&#x20;
 
 ## Carbon
+
+Carbon is a clubby Italian lounge. The entire restaurant is blacked out, and there are two massive glowing purple women leaning over the bar from the greenery wall. They have a small serving of caviar served in a bespoke format called the Caviar Bump, which is a must try. :star:
+
+Food: Italian
+
+Location: West Loop
+
+Budget: \$$
+
+Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkind-rewards)&#x20;
+
+{% embed url="https://www.carbon-chicago.com/" %}
 
 ## Machine
 
