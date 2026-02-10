@@ -68,7 +68,7 @@ Location: West Town
 
 Budget: \$$
 
-Rewards: [One Off Hospitality](../misc/referral-programs.md#one-off-hospitality)
+Rewards: [One Off Hospitality](https://chicago.edwinandsteph.com/misc/referral-programs#one-off-hospitality)
 
 {% embed url="https://www.publicanqualitybread.com/" %}
 
@@ -119,6 +119,8 @@ Food: Brunch, Coffee, Mediterranean
 Location: West Loop, River North
 
 Budget: \$$$
+
+Rewards: [One Off Hospitality](https://chicago.edwinandsteph.com/misc/referral-programs#one-off-hospitality)
 
 {% embed url="https://www.avecrestaurant.com/" %}
 
