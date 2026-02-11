@@ -74,7 +74,7 @@ Rewards: [One Off Hospitality](https://chicago.edwinandsteph.com/misc/referral-p
 
 ### Kasama
 
-Kasama is a Filipino bakery and breakfast spot. Our favorite way to get Kasama is to order at 9am sharp for pickup, and we recommend the cardamom sticky bun. :star:
+Kasama is a Filipino bakery and breakfast spot. Our favorite way to get Kasama is to order at 9am sharp for pickup, and we recommend the cardamom sticky bun. :star::fire:
 
 Food: Filipino, Breakfast
 
@@ -112,7 +112,7 @@ Budget: \$$
 
 ### Avec
 
-Avec is a pair of Mediterranean restaurants in the downtown area of Chicago. The food is delicious, savory, and refined, making for an excellent upscale brunch spot.&#x20;
+Avec is a pair of Mediterranean restaurants in the downtown area of Chicago. The food is delicious, savory, and refined, making for an excellent upscale brunch spot. :fire:
 
 Food: Brunch, Coffee, Mediterranean
 

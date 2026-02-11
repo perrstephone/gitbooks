@@ -74,6 +74,18 @@ Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkin
 
 {% embed url="https://www.valedorchi.com/" %}
 
+## Moneygun
+
+Moneygun is a moody, dark bar with an expansive drink menu. They can make any and all drinks, from tiki to classic martinis. They have a photobooth in the bar, and they open their patio "Sunnygun" in the summer.&#x20;
+
+Food: Bar Snacks
+
+Location: West Loop
+
+Budget: \$$
+
+{% embed url="https://www.moneygunchicago.com/" %}
+
 ## Dorian's&#x20;
 
 Dorian's is a speakeasy that lives behind a small recordshop storefront on North Ave. The bar hosts live music nearly every night at 8pm. Prior to 8pm, the bar hosts a great happy hour so you can indulge while you wait.
@@ -126,7 +138,7 @@ Budget: \$$
 
 ## Truce
 
-Truce is a small cocktail bar that serves espressos late into the night. It's dimly lit and offers an intimiate setting for a date night.&#x20;
+Truce is a small cocktail bar that serves espressos late into the night. It's dimly lit and offers an intimate setting for a date night.&#x20;
 
 Food: Coffee, Bar Bites
 
@@ -135,6 +147,18 @@ Location: Wicker Park
 Budget: \$$
 
 [https://www.trucechicago.com/](https://www.trucechicago.com/)&#x20;
+
+## Luxbar
+
+Luxbar is an upscale tavern serving premium drinks and American food. In the heart of Gold Coast, a plate of fries and a cocktail can be a perfect snack when you want a break for shopping on Michigan Ave. Luxbar holds a special place in our hearts' as it's where we went right after we got engaged. :heart::star::fire:
+
+Food: American
+
+Location: Gold Coast
+
+Budget: \$$
+
+{% embed url="https://luxbar.com/" %}
 
 ## Carbon
 
@@ -152,7 +176,7 @@ Rewards: [InKind](https://chicago.edwinandsteph.com/misc/referral-programs#inkin
 
 ## Machine
 
-Machine is a beautiful restaurant serving elevated bar food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine.:star::fire:
+Machine is a beautiful restaurant serving elevated bar food and exceptionally creative cocktails. The cocktails served at Machine include "breakable" cocktails where you are given a hammer to break candy cages, drinks that are set on fire, and more. This restaurant is also a florist, so you can buy flowers while you dine.:star:
 
 Food: New American, Cocktails
 
@@ -178,7 +202,7 @@ Budget: \$$$
 
 ## The Office
 
-The Office is a tiny speakeasy within the Aviary, and both are Alinea group restaurants. The restaurants capacity is approximately 20 people. The Office is an exceptional bar serving a rotating menu of classic cocktails and creative cocktails, such as a cocktail meant to taste like a Chicago hot dog. Their menu also contains small plates (e.g. oysters, truffle popcorn), which can be purchased a la carte or as a part of a dinner/drinks package. Reservations recommended.
+The Office is a tiny speakeasy within the Aviary, and both are Alinea group restaurants. The restaurants capacity is approximately 20 people. The Office is an exceptional bar serving a rotating menu of classic cocktails and creative cocktails, such as a cocktail meant to taste like a Chicago hot dog. Their menu also contains small plates (e.g. oysters, truffle popcorn), which can be purchased a la carte or as a part of a dinner/drinks package. Reservations recommended. :star:
 
 Location: West Loop
 
@@ -188,7 +212,7 @@ Budget: \$$$
 
 ## The Aviary
 
-The Aviary is arguably the most prestiege bar in Chicago. Yet another creation from the Alinea group, The Aviary specialized in multi-course cocktail menus. These cocktails are paired with small bar snacks and are presented with the same care Alinea treats all food in their ecosystem.
+The Aviary is arguably the most prestiege bar in Chicago. Yet another creation from the Alinea group, The Aviary specialized in multi-course cocktail menus. These cocktails are paired with small bar snacks and are presented with the same care Alinea treats all food in their ecosystem. :star::fire:
 
 Location: West Loop
 

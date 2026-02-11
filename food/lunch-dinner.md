@@ -73,7 +73,7 @@ Budget: \$$
 
 ### Cafecito&#x20;
 
-Cafecito is a local Cuban chain restaurant. Great sandwiches for a reasonable price. :fire:
+Cafecito is a local Cuban chain restaurant. Great sandwiches for a reasonable price.&#x20;
 
 Food: Cuban
 
@@ -87,7 +87,7 @@ Budget: \$$
 
 ### Green Street Smoked Meats
 
-Green Street Smokes Meats serves a Texan-inspired BBQ in warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company.&#x20;
+Green Street Smokes Meats serves a Texan-inspired BBQ in warehouse-style restaurant. This is THE place to get BBQ in Chicago. Green Street is nestled in a small alleyway with tables lining the walkway. This is an excellent spot for a beer, meat, and some good company. :star:
 
 Food: BBQ
 
@@ -99,9 +99,15 @@ Budget: \$$$
 
 ### Pequod's
 
-Pequod's is _the_ local Chicago spot to get deep dish pizza. They have a carmelized crust, which truly sets them apart. The pizzas take an hour to cook, so consider taking an aerial class at [Air](https://chicago.edwinandsteph.com/activities/hidden-gems#air-aerial-fitness) nextdoor while you wait.:star:
+Pequod's is _the_ local Chicago spot to get deep dish pizza. They have a carmelized crust, which truly sets them apart. The pizzas take an hour to cook, so consider taking an aerial class at [Air](https://chicago.edwinandsteph.com/activities/hidden-gems#air-aerial-fitness) nextdoor while you wait.:star::fire:
 
 Food: Deep Dish
+
+Location: Lincoln Park
+
+Budget: \$$
+
+{% embed url="https://pequodspizza.com/" %}
 
 ### Pizzeria Uno
 
@@ -127,6 +133,18 @@ Budget: \$$
 
 {% embed url="https://www.athenachicago.com/" %}
 
+### MCCB
+
+MCCB is walk-in only Szechuan Chinese restaurant in Chinatown. We recommend the dry chili chicken and mapo tofu. We also recommend getting large plates to split. Get there about an hour before you want to eat to get on the waiting list if its a weekend during peak hours. :fire:
+
+Food: Chinese, Szechuan
+
+Location: Chinatown
+
+Budget: \$$
+
+{% embed url="https://www.mccbchicago.com/" %}
+
 ### D4 Irish Pub
 
 D4 Irish Pub offer classic Irish cuisine in an upscale setting. This restaurant also specializes in whiskeys. The atmosphere here is extremely cozy with multiple fireplaces, wood furniture, and a wall of books.&#x20;
@@ -143,7 +161,7 @@ Budget: \$$
 
 ### Niu Japanese Fusion
 
-Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier. :fire:
+Niu is an excellent high-end Japenese restaurant. In addition to the sushi, they have excellent lychee based cocktails and desserts. It is located in Streeterville and is a few blocks down the street from Navy Pier.&#x20;
 
 Food: Japanese, Sushi
 
@@ -155,7 +173,7 @@ Budget: \$$
 
 ### The Loyalist
 
-The Loyalist is a small, underground French restaurant in West Loop. Their burger is what they're known for, but everything on the menu is fantastic. :star:
+The Loyalist is a small, underground French restaurant in West Loop. Their burger is what they're known for, but everything on the menu is fantastic. :star::fire:
 
 Food: French, Burgers
 
@@ -229,7 +247,7 @@ Budget: \$$$
 
 ### Le Colonial&#x20;
 
-Le Colonial is an upscale French-Vietnamese restaurant in Gold Coast. Residing in the heart of a luxury shopping district, this restaurant provides a high-end atmosphere with some truly delicious food. Business casual/somewhat dressy attire recommended. :fire:
+Le Colonial is an upscale French-Vietnamese restaurant in Gold Coast. Residing in the heart of a luxury shopping district, this restaurant provides a high-end atmosphere with some truly delicious food. Business casual/somewhat dressy attire recommended. :fire::star:
 
 Food: French/Vietnamese
 
