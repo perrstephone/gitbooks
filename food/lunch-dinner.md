@@ -195,6 +195,18 @@ Budget: \$$&#x20;
 
 {% embed url="http://auchevaldiner.com/chicago/food-drink/" %}
 
+### Trivoli Tavern
+
+A classy 1950s style tavern with elevated classic, hearty food. Trivoli is located at the end of a cobblestone alleyway in the West Loop neighborhood. The vibe is perfect for a cozy winter date night.&#x20;
+
+Food: Steakhouse, Seafood
+
+Location: West Loop
+
+Budget: \$$$
+
+{% embed url="https://www.trivolitavern.com/" %}
+
 ### Sayat Nova
 
 Sayat Nova is a restaurant that serves authentic Armenian food. Sayat Nova errs on the pricey side, but the food is well worth it. The restaurant was designed with inspiration from Turkish and Armenian design patterns, producing a gorgeous interior. :star::fire:
